@@ -220,21 +220,21 @@ new Food(1, 0.25, false, true)
     .apply(<item:sf5_things:rgb_dye>)
     .apply(<item:minecraft:feather>)
     .register();
-new Food(1, 1, false, true, player => player.sendMessage("you ate"))
+new Food(1, 1, false, true, player => player.sendMessage("ew"))
     .apply(<item:minecraft:dirt>)
     .register();
-new Food(3, 2, false, false, player => player.sendMessage("you ate"))
+new Food(3, 2, false, false)
     .apply(<item:sf5_things:block_of_meat>)
     .register();
-new Food(2, 1, false, false, player => player.sendMessage("you ate"))
+new Food(2, 1, false, false)
     .apply(<item:sf5_things:block_of_jerky>)
     .apply(<item:sf5_things:block_of_pumpkin_spice_latte>)
     .register();
-new Food(5, 3, false, false, player => player.sendMessage("you ate"))
+new Food(5, 3, false, false)
     .apply(<item:sf5_things:block_of_blue_cheese>)
     .apply(<item:sf5_things:block_of_grape_hi_chew>)
     .register();
-new Food(7, 4, false, false, player => player.sendMessage("you ate"))
+new Food(7, 4, false, false)
     .apply(<item:sf5_things:block_of_blooming_onion>)
     .apply(<item:sf5_things:block_of_black_olives>)
     .register();
@@ -247,9 +247,9 @@ new Food(1, 1, false, false, player => player.sendMessage("ew"))
 new Food(1, 0.25, false, true, player => player.sendMessage("ew"))
     .apply(<item:exnihilosequentia:silkworm>)
     .register();
-new Food(0, 0, false, false, player => player.sendMessage("ew"))
+new Food(0, 0, false, false)
     .apply(<item:cyclic:chorus_flight>)
     .register();
-new Food(0, 0, false, false, player => player.sendMessage("ew"))
+new Food(0, 0, false, false)
     .apply(<item:cyclic:chorus_spectral>)
     .register();
