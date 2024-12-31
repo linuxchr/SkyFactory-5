@@ -1,3 +1,4 @@
 {
-  "values": ["forcecraft:force_stick"]
+  "values": ["forcecraft:force_stick"],
+  "replace": true
 }

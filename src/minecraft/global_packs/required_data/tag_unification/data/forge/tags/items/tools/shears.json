@@ -1,3 +1,4 @@
 {
-  "values": ["silentgear:shears"]
+  "values": ["minecraft:shears", "silentgear:shears"],
+  "replace": true
 }

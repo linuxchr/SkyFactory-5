@@ -1,5 +1,7 @@
 {
   "values": [
+    "#minecraft:wooden_fences",
+    "ars_nouveau:archwood_fence",
     "colouredstuff:fence_planks_none",
     "colouredstuff:fence_planks_black",
     "colouredstuff:fence_planks_blue",
@@ -17,5 +19,6 @@
     "colouredstuff:fence_planks_red",
     "colouredstuff:fence_planks_white",
     "colouredstuff:fence_planks_yellow"
-  ]
+  ],
+  "replace": true
 }
