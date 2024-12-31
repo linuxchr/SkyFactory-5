@@ -16,7 +16,6 @@ const symlinkDirs = new Map([
   ["defaultconfigs", buildDir],
   ["global_packs", buildDir],
   ["journeymap", buildDir],
-  ["kubejs", buildDir],
   ["packmenu", buildDir],
   ["scripts", buildDir],
   ["thingpacks", buildDir],

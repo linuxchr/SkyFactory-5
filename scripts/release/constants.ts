@@ -22,7 +22,6 @@ export const directories = new Map([
   ["defaultconfigs", buildDirPath],
   ["global_packs", buildDirPath],
   ["journeymap", buildDirPath],
-  ["kubejs", buildDirPath],
   ["mods", minecraftDirPath],
   ["packmenu", buildDirPath],
   ["scripts", buildDirPath],
