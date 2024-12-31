@@ -3,7 +3,7 @@
 #You probably noticed there's no color! Don't worry, your computer isn't broken. Each of the 16 Minecraft Colors will have to be discovered in a variety of ways: Crafting, in-world actions, etc. If you get stuck, the Advancements should help you out.
 ===
 # How to Use This Book
-#Use the arrows at the bottom of the pages to navigate the book. You will see challenges separated into ages that represent the general path of progression, although you do not need to do them in order. Simply check the box next to each challenge on completion. Careful though, tasks become increasingly difficult as you progress! Also, don't forget to craft yourself a Task Table to store this book!
+#Use the arrows at the bottom of the pages to navigate. You will see challenges separated into ages that represent the general path of progression, although you do not need to do them in order. Simply check the box next to each challenge on completion. Careful though, tasks become increasingly difficult as you progress! Also, don't forget to craft yourself a Task Table to store this book!
 ===
 #§1--==§ Mob Spawning§1==--
 
@@ -14,10 +14,8 @@
 #Mobs will spawn from Spawners found in the world. You can then collect the Spawners, upgrade them, and use a Trophy on the Spawner to change what mob it will spawn.
 ===
 #Special Thank You to:
-#FirstNecron, MarioLuigi7896, Jaredlll08, Muddr, Lothrazar, GoryMoon, Shadows_of_Fire, MrBysco, BlayTheNinth, KingLemming
-#
+#BlayTheNinth, Darkhax, Dutchs, FirstNecron, GoryMoon, Jaredlll08, KingLemming, Lothrazar, MarioLuigi7896, MrBysco, Muddr, Shadows_of_Fire, Twitch Chat
 #To everyone who has supported the development process
-#
 #And finally, big thanks to the modding community for making this happen!
 ===
 # From the Developer
@@ -92,7 +90,7 @@ Speed up your machines by capturing the Warden with the Industrial Foregoing Sou
 #§1--==§0Age of Power§1==--
 Create a Passively cooled reactor from the Bigger Reactors Mod
 Create an Actively cooled reactor from the Bigger Reactors Mod
-Create the maximum size reactor (32x32x48)
+Create the maximum size reactor (32x48x32)
 Create a Turbine from the Bigger Reactors Mod
 Produce 1,000 RF/t
 Produce 10,000 RF/t
@@ -111,13 +109,13 @@ Use a Mega Torch to block creature spawns
 Build a Modular Golem
 Build a Modular Wolf
 Build a Modular Humanoid
-Modular Golem Gear up with Netherite
-Modular Golem Full Upgrades
-
+Gear up a Modular Golem with Netherite
+Fully upgrade a Modular Golem
+===
 #§1--==§0Normal Gateways§1==--
 Obtain a Normal Gateway Pearl
 Complete a Gateway and receive a mob Trophy
-Right-click on a Trophy to activate it
+Right-click on a Trophy to activate it (and again to deactivate)
 Complete all 147 Normal Gateways (not Titan)
 Complete the Normal Ender Dragon Gateway
 ===
@@ -126,7 +124,7 @@ Obtain a Titan Gateway Pearl
 Complete wave 50 of any Titan Gateway
 Complete wave 100 of any Titan Gateway
 Complete wave 150 of any Titan Gateway
-
+===
 #§1--==§0Challenge Gateways§1==--
 Complete all 16 Challenge Gateways
 ===
@@ -155,27 +153,27 @@ Use an Organic Matter Compressor to transform matter into Loot Bags
 ===
 #§1--==§0Age of Magic§1==--
 #§1-=§0Ars Nouveau§1=-
-Make A Source Gem
+Make a Source Gem
 Make a Spellbook
 Make a Scribe's Table
-Generate Source for Machines
+Generate Source for machines
 Make an Enchanting Apparatus
 Make a Ritual Brazier
 Use a Crush Spell to automate Sand and Gravel
-Use a Ritual of Summon Wilden and Defeat them
+Use a Ritual of Summon Wilden and defeat them
 Use a Ritual of Flight to fly around!
 Summon a Weald Walker by performing an Awakening ritual near an Archwood Tree
-Use Starbuncles to Automate Item Retrieval
-Use Wixies To automate Potion Brewing
-Automate a Farm with a Harvest Ritual
+Use Starbuncles to automate item retrieval
+Use Wixies to automate Potion Brewing
+Automate a farm with a Harvest Ritual
 Make an island using a Conjure Island ritual (either plains or desert)
-Summon and Defeat the Wilden Chimera
-Automate a Farm with Spell Turrets
-Farm Mob Drops with Drygmies
+Summon and defeat the Wilden Chimera
+Automate a farm with Spell Turrets
+Farm mob drops with Drygmies
 Summon a Decoy of yourself
-Capture Every Boss in a Containment Jar
+Capture every boss in a Containment Jar
 Generate Source using every type of Sourcelink
-Fully Upgrade a set of Ars Nouveau Armor (Tier 3 fill all thread slots)
+Fully upgrade a set of Ars Nouveau armor (Tier 3 fill all thread slots)
 Summon a Familiar
 Use a Scryer's Oculus to remotely access a block
 Teleport with a Warp Scroll/Portal
@@ -188,16 +186,16 @@ Obtain White Chalk
 Summon a Crusher Spirit to help automate resources
 Summon a Possessed Endermite and kill it for Endstone
 Use an Ars Nouveau Containment Jar to capture an Occultism Spirit, letting them work without decaying
-Capture One of Each Trader Spirit in an Ars Nouveau Containment Jar
-Create A Dimensional Matrix for Mass item storage
-Summon A Djinni Machine Operator To automate Crafting with the Dimensional Matrix
-Use a Dimensional Mineshaft to automate Resources
+Capture one of each Trader Spirit in an Ars Nouveau Containment Jar
+Create a Dimensional Matrix for mass item storage
+Summon a Djinni Machine Operator to automate crafting with the Dimensional Matrix
+Use a Dimensional Mineshaft to automate resources
 Have a Dimensional Matrix with max slots (12416, with one tier 4 on all sides including above and below)
 Summon an Afrit
-Summon the Wild Hunt and Defeat it
-Use a Transporter Spirit to automate Item Transport
+Summon the Wild Hunt and defeat it
+Use a Transporter Spirit to automate item transport
 Use a Janitor Spirit to automate collecting items
-Summon A Familiar and Capture it in a Familiar Ring
+Summon a Familiar and capture it in a Familiar Ring
 Summon a Demonic Wife/Husband
 ===
 #§1-=§0Age of the Botanist§1=-
@@ -207,8 +205,9 @@ Craft a tiny potato and name it Direwolf20
 Craft a Mana Pool and a Mana Spreader
 Craft a Wand of the Forest
 Create a portal to Alfheim
-Use the portal to Alfheim to trade for Dye or Resources
+Use the portal to Alfheim to trade for Dye or resources
 Create an automated flower farm with a Jaded Amaranthus
+===
 #§1-=§0Mastery§1=-
 Automate a Pure Daisy with only Botania and vanilla mechanics
 Craft and fill a Terrasteel Mana Ring
@@ -239,7 +238,6 @@ Create a dimension of RGB Blocks
 ===
 #§1--==§0Age of Dragons§1==--
 Craft the Draconic Chestpiece
-Craft the Draconic Tools
 Draconic Pickaxe
 Draconic Axe
 Draconic Shovel
@@ -261,18 +259,17 @@ Upgrade the Ender Dragon Data Model to Self Aware
 Upgrade the Chaos Guardian Data Model to Self Aware
 ===
 #§1--==§0Age of Craziness§1==--
-Collect all 231 Hats
+Collect all 238 Hats
 Obtain 90 total hearts of health
 Craft an Infinity Wand
 Create a Perfect Sushi Roll
 Create a Culinary Construct Sandwich full of different types of Perfect Sushi
-Fill an entire chunk with Colorless Dye Block (16x16x448)
+Fill an entire chunk with Colorless Dye Blocks (16x448x16)
 ===
 #§1--==§0Age of Excess§1==--
 #§1--==§0AKA Nobody Is Crazy Enough to Actually Do This§1==--
-Fill the Tier 8 Draconic Energy Core to Max 9,223,000,000,000,000,000op
+Fill the Tier 8 Draconic Energy Core to max 9,223,000,000,000,000,000op
 Fill an Infinity Tool to max charge
-===
 ===
 ===
 ===
