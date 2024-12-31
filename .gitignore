@@ -30,16 +30,21 @@
 ## Configs
 /src/minecraft/config/brandon3055/contributors.json
 /src/minecraft/config/brandon3055/contributors.json.etag
-/src/minecraft/config/contentcreatorintegration/*
+/src/minecraft/config/contentcreatorintegration
 !/src/minecraft/config/contentcreatorintegration/libs
 !/src/minecraft/config/contentcreatorintegration/Streamer Profile
 /src/minecraft/config/contentcreatorintegration/Streamer Profile/notes.json
 /src/minecraft/config/contentcreatorintegration/Streamer Profile/stats.json
+/src/minecraft/config/controllable/controller.properties
+/src/minecraft/config/ichunutil/themes
+/src/minecraft/config/jei/world/local/
+/src/minecraft/config/oreexcavation/shapes.json
 /src/minecraft/config/roughlyenoughitems/favorites.json5
 /src/minecraft/config/spark/activity.json
 /src/minecraft/config/ccl.cfg
 /src/minecraft/config/embeddium-fingerprint.json
 /src/minecraft/config/mkm
+/src/minecraft/config/modpacktools-client.toml
 ## Journeymap
 /src/minecraft/journeymap/data
 /src/minecraft/journeymap/icon
@@ -153,28 +158,3 @@ dist
 
 # TernJS port file
 .tern-port
-src/minecraft/config/jei/world/local/
-src/minecraft/config/oreexcavation/shapes.json
-src/minecraft/config/spark/activity.json
-src/minecraft/config/brandon3055/contributors.json
-src/minecraft/config/brandon3055/contributors.json.etag
-src/minecraft/config/ichunutil/themes/aztec.json
-src/minecraft/config/ichunutil/themes/blue&black.json
-src/minecraft/config/ichunutil/themes/blue&orange.json
-src/minecraft/config/ichunutil/themes/default.json
-src/minecraft/config/ichunutil/themes/grassgreen.json
-src/minecraft/config/ichunutil/themes/green&black.json
-src/minecraft/config/ichunutil/themes/lazygray.json
-src/minecraft/config/ichunutil/themes/monogeneric.json
-src/minecraft/config/ichunutil/themes/nightblack.json
-src/minecraft/config/ichunutil/themes/red&black.json
-src/minecraft/config/ichunutil/themes/skyblue.json
-src/minecraft/config/ichunutil/themes/whitelight.json
-src/minecraft/config/contentcreatorintegration/Streamer Profile/stats.json
-src/minecraft/config/brandon3055/contributors.json
-src/minecraft/config/contentcreatorintegration/Streamer Profile/notes.json
-src/minecraft/config/contentcreatorintegration/Streamer Profile/stats.json
-src/minecraft/config/controllable/controller.properties
-src/minecraft/config/mkm/config.json
-src/minecraft/config/embeddium-fingerprint.json
-src/minecraft/config/modpacktools-client.toml
