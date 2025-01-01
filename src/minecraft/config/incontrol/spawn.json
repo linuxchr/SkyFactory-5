@@ -154,7 +154,6 @@
       "monsterplus:opalescent_eye",
       "monsterplus:overgrown_skeleton",
       "monsterplus:swamp_zombie",
-      "moofluids:fluid_cow",
       "sushigocrafting:shrimp",
       "sushigocrafting:tuna",
       "veincreeper:black",
@@ -2495,24 +2494,6 @@
     "maxlight_full": 7
   },
   {
-    "mob": "moofluids:fluid_cow",
-    "block": {
-      "tag": "skyfactory_5:creature_spawnable_blocks_please_work_i_swear_to_john_cena"
-    },
-    "gamestage": "fluid_cow",
-    "armorhelmet": {
-      "item": "simplehats:fro",
-      "nbt": {
-        "display": {
-          "color": 16352035
-        }
-      }
-    },
-    "result": "allow",
-    "minlight_full": 8,
-    "maxlight_full": 15
-  },
-  {
     "mob": "sushigocrafting:shrimp",
     "block": {
       "tag": "skyfactory_5:this_is_where_fish_and_other_sea_creatures_should_spawn_please_work_please_please_please"
@@ -3019,7 +3000,6 @@
       "monsterplus:opalescent_eye",
       "monsterplus:overgrown_skeleton",
       "monsterplus:swamp_zombie",
-      "moofluids:fluid_cow",
       "sushigocrafting:shrimp",
       "sushigocrafting:tuna",
       "veincreeper:black",

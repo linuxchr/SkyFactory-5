@@ -160,7 +160,6 @@ public class Globals {
     <entitytype:monsterplus:opalescent_eye>: new StagedMob(<entitytype:monsterplus:opalescent_eye>, MobStage.OPALESCENT_EYE),
     <entitytype:monsterplus:overgrown_skeleton>: new StagedMob(<entitytype:monsterplus:overgrown_skeleton>, MobStage.OVERGROWN_SKELETON),
     <entitytype:monsterplus:swamp_zombie>: new StagedMob(<entitytype:monsterplus:swamp_zombie>, MobStage.SWAMP_ZOMBIE),
-    <entitytype:moofluids:fluid_cow>: new StagedMob(<entitytype:moofluids:fluid_cow>, MobStage.FLUID_COW),
     <entitytype:sushigocrafting:shrimp>: new StagedMob(<entitytype:sushigocrafting:shrimp>, MobStage.SHRIMP),
     <entitytype:sushigocrafting:tuna>: new StagedMob(<entitytype:sushigocrafting:tuna>, MobStage.TUNA),
     <entitytype:veincreeper:black>: new StagedMob(<entitytype:veincreeper:black>, MobStage.BLACK_VEIN_CREEPER),

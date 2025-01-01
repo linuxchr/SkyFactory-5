@@ -506,10 +506,6 @@
         },
         {
           "condition": "forge:loot_table_id",
-          "loot_table_id": "moofluids:entities/fluid_cow"
-        },
-        {
-          "condition": "forge:loot_table_id",
           "loot_table_id": "sushigocrafting:entities/shrimp"
         },
         {

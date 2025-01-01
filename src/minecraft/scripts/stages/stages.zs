@@ -139,7 +139,6 @@ public enum MobStage {
   EVOKER = "evoker",
   FAIRY = "fairy",
   FANCY_CHICKEN = "fancy_chicken",
-  FLUID_COW = "fluid_cow",
   FOX = "fox",
   FROG = "frog",
   FURNACE_GOLEM = "furnace_golem",

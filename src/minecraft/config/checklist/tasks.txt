@@ -102,7 +102,7 @@ Collect all 16 colors of Energetic Sheep
 ===
 #§1--==§0Age of Life§1==--
 Herd all 16 Colorful Villagers (Villager Trades will automatically cycle after a short duration of time)
-Obtain all 147 Trophies
+Obtain all 146 Trophies
 Find and pickup a Mob Spawner
 Change a Mob Spawner by right-clicking on it with a Trophy
 Use a Mega Torch to block creature spawns
@@ -116,7 +116,7 @@ Fully upgrade a Modular Golem
 Obtain a Normal Gateway Pearl
 Complete a Gateway and receive a mob Trophy
 Right-click on a Trophy to activate it (and again to deactivate)
-Complete all 147 Normal Gateways (not Titan)
+Complete all 146 Normal Gateways (not Titan)
 Complete the Normal Ender Dragon Gateway
 ===
 #§1--==§0Titan Gateways§1==--
