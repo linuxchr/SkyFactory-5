@@ -2667,20 +2667,6 @@ export const mobData: MobData[] = [
   },
   {
     spawnOnly: false,
-    mobID: "moofluids:fluid_cow",
-    mobName: "Fluid Cow",
-    stage: "fluid_cow",
-    color: ColorName.Brown,
-    gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
-    minLightLevel: 8,
-    maxLightLevel: 15,
-    disableNeuralNetworkGeneration: true,
-    additionalGatewayMobNBT: {
-      FluidRegistryName: "colouredstuff:water_brown",
-    },
-  },
-  {
-    spawnOnly: false,
     mobID: "earthmobsmod:horned_sheep",
     mobName: "Horned Sheep",
     stage: "horned_sheep",
