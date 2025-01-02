@@ -778,7 +778,6 @@ val items as ResourceLocation[] = [
   <resource:minecraft:large_amethyst_bud>,
   <resource:minecraft:lilac>,
   <resource:minecraft:medium_amethyst_bud>,
-  <resource:minecraft:peony>,
   <resource:minecraft:popped_chorus_fruit>,
   <resource:minecraft:purple_banner>,
   <resource:minecraft:purple_bed>,

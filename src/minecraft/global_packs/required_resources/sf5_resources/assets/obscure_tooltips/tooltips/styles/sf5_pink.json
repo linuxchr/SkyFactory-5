@@ -820,6 +820,7 @@
       "minecraft:granite_stairs",
       "minecraft:granite_wall",
       "minecraft:mutton",
+      "minecraft:peony",
       "minecraft:piglin_head",
       "minecraft:pink_banner",
       "minecraft:pink_bed",
@@ -1095,8 +1096,7 @@
       "vinery:cherry_wine_rack_mid",
       "vinery:cherry_wine_rack_small",
       "vinery:jellie_wine",
-      "xtonesreworked:cray_block_13",
-      "minecraft:peony"
+      "xtonesreworked:cray_block_13"
     ]
   }
 }

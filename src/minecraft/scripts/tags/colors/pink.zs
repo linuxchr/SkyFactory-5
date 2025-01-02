@@ -821,6 +821,7 @@ val items as ResourceLocation[] = [
   <resource:minecraft:granite_stairs>,
   <resource:minecraft:granite_wall>,
   <resource:minecraft:mutton>,
+  <resource:minecraft:peony>,
   <resource:minecraft:piglin_head>,
   <resource:minecraft:pink_banner>,
   <resource:minecraft:pink_bed>,
