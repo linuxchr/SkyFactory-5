@@ -21,8 +21,8 @@
           "type": "gateways:standard",
           "count": 4,
           "entity": "colourfulllamas:llama",
-          "nbt": "{\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:1.0f},\"pehkui:width\":{scale:1.0f},\"pehkui:height\":{scale:1.0f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}",
-          "finalize_spawn": true
+          "nbt": "{Attributes:[{Name:\"generic.movementSpeed\",Base:0.0d}],\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:1.0f},\"pehkui:width\":{scale:1.0f},\"pehkui:height\":{scale:1.0f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}",
+          "finalize_spawn": false
         }
       ],
       "rewards": [
@@ -47,7 +47,8 @@
           "type": "gateways:standard",
           "count": 4,
           "entity": "colourfulllamas:llama",
-          "nbt": "{\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:0.95f},\"pehkui:width\":{scale:1.5f},\"pehkui:height\":{scale:1.5f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}"
+          "nbt": "{Attributes:[{Name:\"generic.movementSpeed\",Base:0.0d}],\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:0.95f},\"pehkui:width\":{scale:1.5f},\"pehkui:height\":{scale:1.5f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}",
+          "finalize_spawn": false
         }
       ],
       "modifiers": [
@@ -98,7 +99,8 @@
           "type": "gateways:standard",
           "count": 4,
           "entity": "colourfulllamas:llama",
-          "nbt": "{\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:0.8f},\"pehkui:width\":{scale:2f},\"pehkui:height\":{scale:2f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}"
+          "nbt": "{Attributes:[{Name:\"generic.movementSpeed\",Base:0.0d}],\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:0.8f},\"pehkui:width\":{scale:2f},\"pehkui:height\":{scale:2f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}",
+          "finalize_spawn": false
         }
       ],
       "modifiers": [
