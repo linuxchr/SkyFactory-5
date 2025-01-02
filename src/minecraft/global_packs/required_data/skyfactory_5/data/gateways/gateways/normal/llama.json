@@ -21,7 +21,8 @@
           "type": "gateways:standard",
           "count": 4,
           "entity": "colourfulllamas:llama",
-          "nbt": "{\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:1f},\"pehkui:width\":{scale:1f},\"pehkui:height\":{scale:1f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}"
+          "nbt": "{\"pehkui:scale_data_types\":{\"pehkui:hitbox_width\":{scale:1.0f},\"pehkui:width\":{scale:1.0f},\"pehkui:height\":{scale:1.0f}},DeathLootTable:\"skyfactory_5:gateway_entities\",ArmorItems:[{},{},{},{id:\"simplehats:fro\",Count:1b,tag:{display:{color:16352035},Unbreakable:1b}}],Tags:[\"gateway_entity\"]}",
+          "finalize_spawn": true
         }
       ],
       "rewards": [
@@ -72,12 +73,6 @@
           "type": "gateways:attribute",
           "attribute": "generic.knockback_resistance",
           "operation": "addition",
-          "value": 0.05
-        },
-        {
-          "type": "gateways:attribute",
-          "attribute": "generic.movement_speed",
-          "operation": "multiply_total",
           "value": 0.05
         }
       ],
@@ -130,12 +125,6 @@
           "attribute": "generic.knockback_resistance",
           "operation": "addition",
           "value": 0.15
-        },
-        {
-          "type": "gateways:attribute",
-          "attribute": "generic.movement_speed",
-          "operation": "multiply_total",
-          "value": 0.1
         }
       ],
       "rewards": [
