@@ -157,3 +157,6 @@ import crafttweaker.api.text.Component;
   <item:rftoolsdim:legendary_lost_knowledge>.addTooltip(lost_knowledge1);
  // <item:rftoolsdim:legendary_lost_knowledge>.addTooltip(lost_knowledge2);
 
+// Mystical Agriculture
+  var inferium_essence = Component.literal("Dropped from Lime Leaves").setStyle(<constant:formatting:yellow>);
+  <item:mysticalagriculture:inferium_essence>.addTooltip(inferium_essence);
