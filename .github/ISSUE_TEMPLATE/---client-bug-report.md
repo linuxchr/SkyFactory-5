@@ -36,7 +36,7 @@ NOTE: If you have other mods installed or you have changed versions; please reve
 ## Logs
 
 <!-- 📝
-Twitch logs can be found in the installation directory for the Twitch App.  Or click the ... button on SevTech and hit "Open Folder"
+CurseForge logs can be found in the installation directory for the CurseForge App. Or click the ... button on SkyFactory 5 and hit "Open Folder"
 ATLauncher logs can be found in the installation directory. Or you can "Open Folder" from the launcher to view the instance.
 Then upload the latest/crash logs to PasteBin or Gist. DON'T Upload them to GitHub -->
 
