@@ -1,5 +1,8 @@
 name: "Bug Report"
 description: "Report a bug/issue for SkyFactory 5"
+labels: ["bug"]
+assignees:
+  - Darkosto
 body:
   - type: markdown
     attributes:
@@ -48,12 +51,12 @@ body:
 
         CurseForge logs can be found in the installation directory for the
         CurseForge App. Or click the ... button on SkyFactory 5 and hit "Open
-        Folder"<br/><br/>
+        Folder"<br/>
 
         ATLauncher logs can be found in the installation directory. Or you can
         "Open Folder" from the launcher to view the instance.<br/><br/>
 
-        Then upload the latest/crash logs to [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/).<br/><br/>
+        Then upload the latest/crash logs to [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/).<br/>
 
         **DON'T upload them to GitHub**
   - type: input
@@ -81,8 +84,6 @@ body:
     attributes:
       label: Additional Content Installed?
       description: List any extra mods you've installed into the pack.
-    validations:
-      required: true
   - type: markdown
     attributes:
       value: "## Client Information"
