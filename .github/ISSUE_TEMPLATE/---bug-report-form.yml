@@ -48,13 +48,14 @@ body:
 
         CurseForge logs can be found in the installation directory for the
         CurseForge App. Or click the ... button on SkyFactory 5 and hit "Open
-        Folder"
+        Folder"<br/><br/>
 
         ATLauncher logs can be found in the installation directory. Or you can
-        "Open Folder" from the launcher to view the instance.
+        "Open Folder" from the launcher to view the instance.<br/><br/>
 
-        Then upload the latest/crash logs to [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/).
-        **DON'T Upload them to GitHub**
+        Then upload the latest/crash logs to [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/).<br/><br/>
+
+        **DON'T upload them to GitHub**
   - type: input
     id: clientLogs
     attributes:
