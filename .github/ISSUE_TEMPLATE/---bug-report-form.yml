@@ -1,0 +1,164 @@
+name: Welcome
+title: ""
+description: ""
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Thank you for submitting an issue for the relevant topic. Please ensure
+        that you fill in all the required information needed as specified by the
+        template below. Enter text following any "<!-- ✍️\-\-\>" in the template
+        below.
+
+
+        NOTE: If you have other mods installed or you have changed versions;
+        please revert to a clean install and test again with a crash/bug before
+        posting.
+  - type: textarea
+    id: textarea-1
+    attributes:
+      label: Bug Description
+      description: Please provide a clear and concise description of the problem.
+  - type: dropdown
+    id: dropdown-2
+    attributes:
+      label: Did this behavior used to work in the previous version?
+      options:
+        - Unknown
+        - Yes
+        - No
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: input-3
+    attributes:
+      label: If you answered Yes above...
+      description: Which version was this behavior working as intended?
+      placeholder: i.e. v5.0.0
+  - type: textarea
+    id: textarea-4
+    attributes:
+      placeholder: |-
+        1.
+        2.
+        3.
+      label: Steps to Reproduce (for bugs)
+      description: Lists the steps to reproduce the issue or link to video showcasing issue.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-
+        ## Logs
+
+
+        <!-- 📝
+
+        CurseForge logs can be found in the installation directory for the
+        CurseForge App. Or click the ... button on SkyFactory 5 and hit "Open
+        Folder"
+
+        ATLauncher logs can be found in the installation directory. Or you can
+        "Open Folder" from the launcher to view the instance.
+
+        Then upload the latest/crash logs to PasteBin or Gist. DON'T Upload them
+        to GitHub -->
+  - type: input
+    id: input-6
+    attributes:
+      label: "Client/Server Log:"
+      description: Paste URL to the client/server log.
+  - type: input
+    id: input-7
+    attributes:
+      label: "Crash Log:"
+      description: Paste URL to the crash log.
+  - type: markdown
+    attributes:
+      value: "## World Information"
+  - type: input
+    id: input-9
+    attributes:
+      label: "Modpack Version world created in:"
+      placeholder: i.e. v5.0.0
+    validations:
+      required: true
+  - type: input
+    id: input-10
+    attributes:
+      label: Additional Content Installed?
+      description: List any extra mods you've installed into the pack.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "## Client Information"
+  - type: input
+    id: input-12
+    attributes:
+      label: "Modpack Version:"
+      description: What version of SF5 are you experiences this issue on?
+      placeholder: i.e. v5.0.0
+    validations:
+      required: true
+  - type: input
+    id: input-13
+    attributes:
+      label: "Java Version:"
+      description: What version of java are you running the pack on?
+      placeholder: i.e. v17.0.0
+    validations:
+      required: true
+  - type: input
+    id: input-14
+    attributes:
+      label: "Launcher Used:"
+      description: Which launcher are you using to launch the pack?
+      placeholder: i.e. CurseForge, GD Launcher, Prism, etc.
+    validations:
+      required: true
+  - type: input
+    id: input-15
+    attributes:
+      label: "Memory Allocated:"
+      description: How much RAM do you have allocated to the pack?
+      placeholder: i.e. 9192 MB
+    validations:
+      required: true
+  - type: dropdown
+    id: dropdown-16
+    attributes:
+      label: "Single Player/LAN/Server:"
+      description: What mode do you experience this issue on?
+      options:
+        - Singleplayer
+        - LAN
+        - Server
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: dropdown-17
+    attributes:
+      label: "Optifine Installed:"
+      description: Do you have Optifine installed?
+      options:
+        - ""
+        - No
+        - Yes
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: dropdown-18
+    attributes:
+      label: "Shaders Enabled:"
+      description: Do you have shaders enabled?
+      options:
+        - ""
+        - No
+        - Yes
+      default: 0
+    validations:
+      required: true
