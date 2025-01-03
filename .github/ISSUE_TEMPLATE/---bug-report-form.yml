@@ -4,20 +4,15 @@ body:
   - type: markdown
     attributes:
       value: >-
-        Thank you for submitting an issue for the relevant topic. Please ensure
-        that you fill in all the required information needed as specified by the
-        template below. Enter text following any "<!-- ✍️\-\-\>" in the template
-        below.
-
-
-        NOTE: If you have other mods installed or you have changed versions;
-        please revert to a clean install and test again with a crash/bug before
-        posting.
+        Thank you for submitting an issue for the relevant topic. Please provide
+        as much information as possible.
   - type: textarea
     id: description
     attributes:
       label: Bug Description
       description: Please provide a clear and concise description of the problem.
+    validations:
+      required: true
   - type: dropdown
     id: workPreviously
     attributes:
@@ -51,9 +46,6 @@ body:
       value: >-
         ## Logs
 
-
-        <!-- 📝
-
         CurseForge logs can be found in the installation directory for the
         CurseForge App. Or click the ... button on SkyFactory 5 and hit "Open
         Folder"
@@ -61,8 +53,8 @@ body:
         ATLauncher logs can be found in the installation directory. Or you can
         "Open Folder" from the launcher to view the instance.
 
-        Then upload the latest/crash logs to PasteBin or Gist. DON'T Upload them
-        to GitHub -->
+        Then upload the latest/crash logs to [gist](https://gist.github.com/) or [pastebin](https://pastebin.com/).
+        **DON'T Upload them to GitHub**
   - type: input
     id: clientLogs
     attributes:
@@ -143,7 +135,6 @@ body:
       label: "Optifine Installed:"
       description: Do you have Optifine installed?
       options:
-        - "Pick Option"
         - "No"
         - "Yes"
       default: 0
@@ -155,7 +146,6 @@ body:
       label: "Shaders Enabled:"
       description: Do you have shaders enabled?
       options:
-        - "Pick Option"
         - "No"
         - "Yes"
       default: 0
