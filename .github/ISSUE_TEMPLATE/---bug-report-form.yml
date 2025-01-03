@@ -1,6 +1,5 @@
-name: Welcome
-title: ""
-description: ""
+name: "Bug Report"
+description: "Report a bug/issue for SkyFactory 5"
 body:
   - type: markdown
     attributes:
@@ -15,29 +14,29 @@ body:
         please revert to a clean install and test again with a crash/bug before
         posting.
   - type: textarea
-    id: textarea-1
+    id: description
     attributes:
       label: Bug Description
       description: Please provide a clear and concise description of the problem.
   - type: dropdown
-    id: dropdown-2
+    id: workPreviously
     attributes:
       label: Did this behavior used to work in the previous version?
       options:
-        - Unknown
-        - Yes
-        - No
+        - "Unknown"
+        - "Yes"
+        - "No"
       default: 0
     validations:
       required: true
   - type: input
-    id: input-3
+    id: workPreviouslyVersion
     attributes:
       label: If you answered Yes above...
       description: Which version was this behavior working as intended?
       placeholder: i.e. v5.0.0
   - type: textarea
-    id: textarea-4
+    id: stepsToReproduce
     attributes:
       placeholder: |-
         1.
@@ -65,12 +64,12 @@ body:
         Then upload the latest/crash logs to PasteBin or Gist. DON'T Upload them
         to GitHub -->
   - type: input
-    id: input-6
+    id: clientLogs
     attributes:
       label: "Client/Server Log:"
       description: Paste URL to the client/server log.
   - type: input
-    id: input-7
+    id: crashLogs
     attributes:
       label: "Crash Log:"
       description: Paste URL to the crash log.
@@ -78,14 +77,14 @@ body:
     attributes:
       value: "## World Information"
   - type: input
-    id: input-9
+    id: versionCreated
     attributes:
       label: "Modpack Version world created in:"
       placeholder: i.e. v5.0.0
     validations:
       required: true
   - type: input
-    id: input-10
+    id: additionalContent
     attributes:
       label: Additional Content Installed?
       description: List any extra mods you've installed into the pack.
@@ -95,7 +94,7 @@ body:
     attributes:
       value: "## Client Information"
   - type: input
-    id: input-12
+    id: modpackVersion
     attributes:
       label: "Modpack Version:"
       description: What version of SF5 are you experiences this issue on?
@@ -103,7 +102,7 @@ body:
     validations:
       required: true
   - type: input
-    id: input-13
+    id: javaVersion
     attributes:
       label: "Java Version:"
       description: What version of java are you running the pack on?
@@ -111,7 +110,7 @@ body:
     validations:
       required: true
   - type: input
-    id: input-14
+    id: launcherUsed
     attributes:
       label: "Launcher Used:"
       description: Which launcher are you using to launch the pack?
@@ -119,7 +118,7 @@ body:
     validations:
       required: true
   - type: input
-    id: input-15
+    id: memoryAllocated
     attributes:
       label: "Memory Allocated:"
       description: How much RAM do you have allocated to the pack?
@@ -127,38 +126,38 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: dropdown-16
+    id: gametype
     attributes:
       label: "Single Player/LAN/Server:"
       description: What mode do you experience this issue on?
       options:
-        - Singleplayer
-        - LAN
-        - Server
+        - "Singleplayer"
+        - "LAN"
+        - "Server"
       default: 0
     validations:
       required: true
   - type: dropdown
-    id: dropdown-17
+    id: optifineInstalled
     attributes:
       label: "Optifine Installed:"
       description: Do you have Optifine installed?
       options:
-        - ""
-        - No
-        - Yes
+        - "Pick Option"
+        - "No"
+        - "Yes"
       default: 0
     validations:
       required: true
   - type: dropdown
-    id: dropdown-18
+    id: shadersEnabled
     attributes:
       label: "Shaders Enabled:"
       description: Do you have shaders enabled?
       options:
-        - ""
-        - No
-        - Yes
+        - "Pick Option"
+        - "No"
+        - "Yes"
       default: 0
     validations:
       required: true
