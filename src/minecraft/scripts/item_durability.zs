@@ -403,7 +403,6 @@ val itemsForUnbreakable = [
   <resource:silentgear:crossbow>,
   <resource:silentgear:slingshot>,
   <resource:silentgear:shield>,
-  <resource:silentgear:arrow>,
   <resource:silentgear:helmet>,
   <resource:silentgear:chestplate>,
   <resource:silentgear:leggings>,
