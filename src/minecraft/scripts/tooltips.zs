@@ -160,3 +160,9 @@ import crafttweaker.api.text.Component;
 // Mystical Agriculture
   var inferium_essence = Component.literal("Dropped from Lime Leaves").setStyle(<constant:formatting:yellow>);
   <item:mysticalagriculture:inferium_essence>.addTooltip(inferium_essence);
+
+// Gateways
+
+var ghast_cow_gateway = Component.literal("Summons bosslike mob. Explodes like a Wither at the start").setStyle(<constant:formatting:red>);
+<item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/ghast_cow"}).addTooltip(ghast_cow_gateway);
+<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/ghast_cow"}).addTooltip(ghast_cow_gateway);
