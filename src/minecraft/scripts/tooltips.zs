@@ -160,3 +160,7 @@ import crafttweaker.api.text.Component;
 // Mystical Agriculture
   var inferium_essence = Component.literal("Dropped from Lime Leaves").setStyle(<constant:formatting:yellow>);
   <item:mysticalagriculture:inferium_essence>.addTooltip(inferium_essence);
+
+// Silent Gear
+var arrow = Component.literal("NOT unbreakable, repair with main material directly").setStyle(<constant:formatting:yellow>);
+<item:silentgear:arrow>.addTooltip(arrow);
