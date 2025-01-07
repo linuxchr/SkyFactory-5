@@ -447,7 +447,8 @@ var colors = [
 // Tag additions
 <tag:items:forge:dusts/ender>.addId(<resource:thermal:ender_pearl_dust>);
 <tag:items:minecraft:pressure_plates>.addId(<resource:minecraft:stone_pressure_plate>);
-
+<tag:items:balm:wooden_chests>.addId(<resource:sophisticatedstorage:chest>);
+<tag:items:forge:wooden_chests>.addId(<resource:sophisticatedstorage:chest>);
 // Adds Crafting Tables to forge:workbench tag
 <tag:items:forge:workbench>.addId(<resource:enderio:painted_crafting_table>);
 <tag:items:forge:workbench>.addId(<resource:colouredstuff:crafting_table_none>);
