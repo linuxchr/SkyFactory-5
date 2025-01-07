@@ -1,10 +1,10 @@
 {
   "type": "industrialforegoing:laser_drill_ore",
   "catalyst": {
-    "item": "industrialforegoing:laser_lens1"
+    "item": "minecraft:glass_pane"
   },
   "output": {
-    "item": "sf5_things:block_of_orange_dye"
+    "item": "sf5_things:block_of_colorless_dye"
   },
   "pointer": 0,
   "rarity": [
@@ -12,7 +12,7 @@
       "blacklist": {},
       "depth_max": 420,
       "depth_min": -64,
-      "weight": 0,
+      "weight": 1,
       "whitelist": {}
     }
   ]
