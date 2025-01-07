@@ -425,3 +425,11 @@ craftingTable.addShapeless(
   <item:sf5_things:block_of_colorless_dye> * 1,
   [<item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>, <item:mysticalagriculture:none_crop_essence>]
 );
+
+// Immersive Engineering White Dye recipe
+craftingTable.addShapeless(
+  "white_dye_ie_wooden_bucket",
+  <item:minecraft:white_dye> * 16,
+  [<item:woodenbucket:wooden_bucket>.withTag({Fluid: {Amount: 1000, FluidName: "immersiveengineering:ethanol"}}), <item:minecraft:rotten_flesh>,<item:minecraft:rotten_flesh>,<item:minecraft:rotten_flesh>, <tag:items:forge:dusts/lead>]
+);
+
