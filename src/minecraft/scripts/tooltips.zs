@@ -182,7 +182,12 @@ var boss_mob_gateway = Component.literal("Warning! Summons a Boss Mob").setStyle
 
 // Ugly Steel Plating
 var ugly_steel_plating = Component.literal("Covers Blenders & Printers to save FPS").setStyle(<constant:formatting:yellow>);
-  <item:forbiddensmoothies:ugly_steel_plating>.addTooltip(ugly_steel_plating);
+<item:forbiddensmoothies:ugly_steel_plating>.addTooltip(ugly_steel_plating);
 
+// Dimension Painting
+var dimension_painting = Component.literal("Teleports to you to its specified Dimension").setStyle(<constant:formatting:yellow>);
+<item:dimpaintings:end_painting>.addTooltip(dimension_painting);
+<item:dimpaintings:nether_painting>.addTooltip(dimension_painting);
+<item:dimpaintings:overworld_painting>.addTooltip(dimension_painting);
 
 // var tool_belt_tip = Component.translatable("some.lang.key").setStyle(<constant:formatting:gold>);
