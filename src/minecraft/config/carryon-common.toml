@@ -352,7 +352,15 @@ forbiddenTiles = [
   "wormhole:*",
   "biggerreactors:*",
   "magic_mirror:*",
-  "sophisticatedstorage:chest"
+  "sophisticatedstorage:chest",
+  "enderio:energy_conduit",
+  "enderio:fluid_conduit",
+  "enderio:pressurized_fluid_conduit",
+  "enderio:ender_fluid_conduit",
+  "enderio:redstone_conduit",
+  "enderio:item_conduit",
+  "enderio:dense_me_conduit",
+  "enderio:me_conduit"
 ]
 # Entities that cannot be picked up
 forbiddenEntities = [
