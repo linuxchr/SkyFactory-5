@@ -5,6 +5,10 @@
     "vanilla_hopper_present": {
       "type": "workshop_has",
       "block": "minecraft:hopper"
+    },
+    "colored_crafting_table_present": {
+      "type": "workshop_core",
+      "tag": "skyfactory_5:colored_crafting_tables"
     }
   },
   "groups": {},
@@ -31,6 +35,7 @@
         { "item": "industrialforegoing:world_transporter_type" }
       ],
       "soft_requirements": ["vanilla_hopper_present"],
+      "hard_requirements": ["colored_crafting_table_present"],
       "priority": 99995
     }
   }

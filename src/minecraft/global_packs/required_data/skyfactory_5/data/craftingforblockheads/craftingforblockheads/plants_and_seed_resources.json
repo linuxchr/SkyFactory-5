@@ -5,6 +5,10 @@
     "vanilla_composter_present": {
       "type": "workshop_has",
       "block": "minecraft:composter"
+    },
+    "colored_crafting_table_present": {
+      "type": "workshop_core",
+      "tag": "skyfactory_5:colored_crafting_tables"
     }
   },
   "groups": {},
@@ -46,6 +50,7 @@
         { "item": "thermal:flax_seeds" }
       ],
       "soft_requirements": ["vanilla_composter_present"],
+      "hard_requirements": ["colored_crafting_table_present"],
       "priority": 99996
     }
   }

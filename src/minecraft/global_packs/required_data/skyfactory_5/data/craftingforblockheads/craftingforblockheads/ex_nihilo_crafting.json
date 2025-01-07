@@ -5,6 +5,10 @@
     "ex_nihilo_barrel_present": {
       "type": "workshop_has",
       "tag": "skyfactory_5:color_barrels"
+    },
+    "colored_crafting_table_present": {
+      "type": "workshop_core",
+      "tag": "skyfactory_5:colored_crafting_tables"
     }
   },
   "groups": {},
@@ -42,6 +46,7 @@
         { "item": "exnihilosequentia:wooden_hammer" }
       ],
       "soft_requirements": ["ex_nihilo_barrel_present"],
+      "hard_requirements": ["colored_crafting_table_present"],
       "priority": 99994
     }
   }
