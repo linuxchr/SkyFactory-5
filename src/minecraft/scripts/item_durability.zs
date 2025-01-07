@@ -33,7 +33,6 @@ for durability, items in itemsForDurability{
   }
 }
 
-
   // //
   // Sets up items to use the Unbreakable tag as this is a much cleaner
   // method for many items rather than setting durability
