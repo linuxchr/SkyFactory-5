@@ -1,7 +1,7 @@
 import crafttweaker.api.text.Component;
 
 // Script for setting up custom tooltips
-
+// var tool_belt_tip = Component.translatable("some.lang.key").setStyle(<constant:formatting:gold>);
 
 /*
  var amazon = Component.literal("Amazon").setStyle(<constant:formatting:gold>);
@@ -184,5 +184,12 @@ var boss_mob_gateway = Component.literal("Warning! Summons a Boss Mob").setStyle
 var ugly_steel_plating = Component.literal("Covers Blenders & Printers to save FPS").setStyle(<constant:formatting:yellow>);
   <item:forbiddensmoothies:ugly_steel_plating>.addTooltip(ugly_steel_plating);
 
+// Dimensional Painting
+var overworld_painting = Component.literal("Teleports you to the Overworld Dimension").setStyle(<constant:formatting:yellow>);
+<item:dimpaintings:overworld_painting>.addTooltip(overworld_painting);
 
-// var tool_belt_tip = Component.translatable("some.lang.key").setStyle(<constant:formatting:gold>);
+var nether_painting = Component.literal("Teleports you to the Nether Dimension").setStyle(<constant:formatting:yellow>);
+<item:dimpaintings:nether_painting>.addTooltip(nether_painting);
+
+var end_painting = Component.literal("Teleports you to the End Dimension").setStyle(<constant:formatting:yellow>);
+<item:dimpaintings:end_painting>.addTooltip(end_painting);
