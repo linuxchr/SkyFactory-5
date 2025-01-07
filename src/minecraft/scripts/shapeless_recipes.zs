@@ -302,7 +302,7 @@ craftingTable.addShapeless(
 craftingTable.addShapeless(
   "bronze_ingot_to_plate_hammer",
   <item:thermal:bronze_plate>,
-  [<item:immersiveengineering:hammer>, <item:silentgear:bronze_ingot>]
+  [<item:immersiveengineering:hammer>, <item:thermal:bronze_ingot>]
 );
 
 // Signalum
