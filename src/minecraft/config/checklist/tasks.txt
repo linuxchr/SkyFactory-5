@@ -14,7 +14,7 @@
 #Mobs will spawn from Spawners found in the world. You can then collect the Spawners, upgrade them, and use a Trophy on the Spawner to change what mob it will spawn.
 ===
 #Special Thank You to:
-#BlayTheNinth, Darkhax, Dutchs, FirstNecron, GoryMoon, Jaredlll08, KingLemming, Lothrazar, MarioLuigi7896, MrBysco, Muddr, Shadows_of_Fire, Twitch Chat
+#BlayTheNinth, Darkhax, Dutchs, FirstNecron, GoryMoon, Jaredlll08, KingLemming, linuxchr, Lothrazar, MarioLuigi7896, MrBysco, Muddr, Shadows_of_Fire, Twitch Chat
 #To everyone who has supported the development process
 #And finally, big thanks to the modding community for making this happen!
 ===
