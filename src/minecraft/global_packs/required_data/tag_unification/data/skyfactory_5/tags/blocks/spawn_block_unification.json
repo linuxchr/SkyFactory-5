@@ -12,7 +12,6 @@
     "minecraft:end_stone",
     "minecraft:stone",
     "mob_grinding_utils:entity_conveyor",
-    "skyfactory_5:coloured_stuff/cobblestone",
-    "skyfactory_5:color_stone"
+    "#skyfactory_5:color_stone"
   ]
 }
