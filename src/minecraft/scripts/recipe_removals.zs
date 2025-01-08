@@ -483,8 +483,10 @@ val items as IItemStack[] = [
   <item:occultism:raw_silver_block>,
 
   // Vein Creepers
-  <item:veincreeper:trap>
+  <item:veincreeper:trap>,
 
+  // Chargers
+  <item:chargers:charger_t4>
 ];
 
 for item in items {
