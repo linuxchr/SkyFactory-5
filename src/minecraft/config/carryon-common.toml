@@ -360,7 +360,8 @@ forbiddenTiles = [
   "enderio:redstone_conduit",
   "enderio:item_conduit",
   "enderio:dense_me_conduit",
-  "enderio:me_conduit"
+  "enderio:me_conduit",
+  "refurbished_furniture:*"
 ]
 # Entities that cannot be picked up
 forbiddenEntities = [
