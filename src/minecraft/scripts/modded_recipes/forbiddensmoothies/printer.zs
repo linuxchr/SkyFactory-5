@@ -30,3 +30,5 @@ addRGBDyeAndBlockPrinterRecipe("rgb_printer_dripstone_pebble", <item:exnihiloseq
 addRGBDyeAndBlockPrinterRecipe("rgb_printer_granite_pebble", <item:exnihilosequentia:granite_pebble>, <item:exnihilosequentia:granite_pebble> * 9, 1);
 addRGBDyeAndBlockPrinterRecipe("rgb_printer_sky_dust", <item:ae2:sky_dust>, <item:ae2:sky_dust> * 9, 1);
 addRGBDyeAndBlockPrinterRecipe("rgb_printer_draconium_dust", <item:draconicevolution:draconium_dust>, <item:draconicevolution:draconium_dust> * 9, 1);
+addRGBDyeAndBlockPrinterRecipe("rgb_printer_ruby", <item:thermal:ruby>, <item:thermal:ruby_block> * 1, 1);
+addRGBDyeAndBlockPrinterRecipe("rgb_printer_sapphire", <item:thermal:sapphire>, <item:thermal:sapphire_block> * 1, 1);
