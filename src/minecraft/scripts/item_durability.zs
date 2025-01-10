@@ -561,6 +561,9 @@ val itemsForUnbreakable = [
   <resource:occultism:chalk_red>,
   <resource:occultism:divination_rod>,
   <resource:occultism:butcher_knife>,
+  <resource:occultism:miner_foliot_unspecialized>,
+  <resource:occultism:miner_djinni_ores>,
+  <resource:occultism:miner_afrit_deeps>,
 
   // Pickletweaks
   <resource:pickletweaks:night_vision_goggles>,
