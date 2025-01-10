@@ -652,7 +652,14 @@ val itemsForUnbreakable = [
   <resource:create_sabers:double_copper_saber_purple>,
   <resource:create_sabers:brass_saber_galaxy>,
 
-  <resource:simpletomb:grave_key>
+  <resource:simpletomb:grave_key>,
+
+  // Draconic Evolution
+  <resource:draconicevolution:dislocator>,
+  <resource:draconicevolution:p2p_dislocator>,
+  <resource:draconicevolution:p2p_dislocator_unbound>,
+  <resource:draconicevolution:player_dislocator>,
+  <resource:draconicevolution:player_dislocator_unbound>
 
 ];
 
