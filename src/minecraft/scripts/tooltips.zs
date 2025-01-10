@@ -193,3 +193,8 @@ var nether_painting = Component.literal("Teleports you to the Nether Dimension")
 
 var end_painting = Component.literal("Teleports you to the End Dimension").setStyle(<constant:formatting:yellow>);
 <item:dimpaintings:end_painting>.addTooltip(end_painting);
+
+// Mushrooms
+var mushroom = Component.literal("Obtained via Nether Structures").setStyle(<constant:formatting:yellow>);
+<item:minecraft:red_mushroom>.addTooltip(mushroom);
+<item:minecraft:brown_mushroom>.addTooltip(mushroom);
