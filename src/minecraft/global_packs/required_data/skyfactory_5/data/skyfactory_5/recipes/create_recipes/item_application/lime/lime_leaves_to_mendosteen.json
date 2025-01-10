@@ -1,0 +1,13 @@
+{
+  "type": "create:item_application",
+  "keepHeldItem": false,
+  "ingredients": [
+    {
+      "item": "colouredstuff:leaves_lime"
+    },
+    {
+      "item": "ars_nouveau:source_gem"
+    }
+  ],
+  "results": [{ "item": "ars_nouveau:mendosteen_pod" }]
+}
