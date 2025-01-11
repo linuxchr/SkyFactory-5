@@ -564,6 +564,8 @@ val itemsForUnbreakable = [
   <resource:occultism:miner_foliot_unspecialized>,
   <resource:occultism:miner_djinni_ores>,
   <resource:occultism:miner_afrit_deeps>,
+  <resource:occultism:miner_marid_master>,
+
 
   // Pickletweaks
   <resource:pickletweaks:night_vision_goggles>,
