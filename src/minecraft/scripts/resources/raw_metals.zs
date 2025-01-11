@@ -327,32 +327,3 @@ new MaterialCraftingRecipe(
     <tag:items:forge:dyes/yellow>
   ]
 ).addRecipes();
-
-// Ruby Gem
-new MaterialCraftingRecipe(
-  "ruby_from_dye",
-  <item:thermal:ruby>,
-  [
-    <tag:items:forge:dyes/red>,
-    <tag:items:forge:dyes/red>,
-    <tag:items:forge:dyes/red>,
-    <tag:items:forge:dyes/red>,
-    <tag:items:forge:dyes/red>,
-    <tag:items:forge:dyes/red>
-  ]
-).addRecipes();
-
-// Sapphire Gem
-new MaterialCraftingRecipe(
-  "sapphire_from_dye",
-  <item:thermal:sapphire>,
-  [
-    <tag:items:forge:dyes/blue>,
-    <tag:items:forge:dyes/blue>,
-    <tag:items:forge:dyes/blue>,
-    <tag:items:forge:dyes/blue>,
-    <tag:items:forge:dyes/blue>,
-    <tag:items:forge:dyes/blue>
-  ]
-).addRecipes();
-
