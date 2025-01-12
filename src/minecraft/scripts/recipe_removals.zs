@@ -487,7 +487,11 @@ val items as IItemStack[] = [
   <item:veincreeper:trap>,
 
   // EnderIO
-  <item:enderio:powered_spawner>
+  <item:enderio:powered_spawner>,
+
+  // Hostile Neural Network
+  <item:hostilenetworks:nether_prediction>,
+  <item:hostilenetworks:end_prediction>
 
 ];
 
