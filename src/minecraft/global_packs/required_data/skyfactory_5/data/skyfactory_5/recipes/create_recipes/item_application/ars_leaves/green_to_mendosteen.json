@@ -3,11 +3,11 @@
   "keepHeldItem": false,
   "ingredients": [
     {
-      "item": "colouredstuff:leaves_red"
+      "item": "ars_nouveau:green_archwood_leaves"
     },
     {
       "item": "ars_nouveau:source_gem"
     }
   ],
-  "results": [{ "item": "ars_nouveau:bombegranate_pod" }]
+  "results": [{ "item": "ars_nouveau:mendosteen_pod" }]
 }

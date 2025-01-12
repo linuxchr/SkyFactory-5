@@ -3,11 +3,11 @@
   "keepHeldItem": false,
   "ingredients": [
     {
-      "item": "colouredstuff:leaves_light_blue"
+      "item": "ars_nouveau:red_archwood_leaves"
     },
     {
       "item": "ars_nouveau:source_gem"
     }
   ],
-  "results": [{ "item": "ars_nouveau:frostaya_pod" }]
+  "results": [{ "item": "ars_nouveau:bombegranate_pod" }]
 }
