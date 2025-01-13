@@ -76,6 +76,22 @@
         },
         {
           "item": "minecraft:lime_bed"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_1",
+          "nbt": "{accentColor:6710886,mainColor:8439583}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_2",
+          "nbt": "{accentColor:6710886,mainColor:8439583}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_3",
+          "nbt": "{accentColor:6710886,mainColor:8439583}"
+        },
+        {
+          "item": "sophisticatedstorage:limited_barrel_4",
+          "nbt": "{accentColor:6710886,mainColor:8439583}"
         }
       ],
       "excludes": [
