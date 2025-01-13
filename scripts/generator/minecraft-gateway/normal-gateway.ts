@@ -3,6 +3,7 @@ import { parse as parseNBT, stringify, TagObject } from "nbt-ts";
 import path from "path";
 import {
   GatewayWaveEntity,
+  GatewayWaveModifier,
   NormalGateway,
 } from "schemas/minecraft/gateways/gateways-v2";
 import { GatewayType } from "./constants";
@@ -30,6 +31,7 @@ export function createStandardNormalGateway(
     entity: baseEntity.entity,
     nbt: baseEntity.nbt,
     desc: baseEntity.desc,
+    finalize_spawn: baseEntity.finalize_spawn,
   });
 
   if (waveEntity.nbt) {
@@ -123,7 +125,15 @@ export function createStandardNormalGateway(
             operation: "multiply_total",
             value: 0.05,
           },
-        ],
+        ].filter((m) => {
+          if (
+            m.attribute === "generic.movement_speed" &&
+            overrides.preventSpeedModifiers
+          ) {
+            return false;
+          }
+          return true;
+        }) as GatewayWaveModifier[],
         rewards: [
           {
             type: "gateways:experience",
@@ -173,7 +183,15 @@ export function createStandardNormalGateway(
             operation: "multiply_total",
             value: 0.1,
           },
-        ],
+        ].filter((m) => {
+          if (
+            m.attribute === "generic.movement_speed" &&
+            overrides.preventSpeedModifiers
+          ) {
+            return false;
+          }
+          return true;
+        }) as GatewayWaveModifier[],
         rewards: [
           {
             type: "gateways:experience",
