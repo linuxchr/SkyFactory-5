@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:bat\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:bat\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:brown\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:brown\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:cod\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:cod\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:cow\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:donkey\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:donkey\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"ghastcow:ghast_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"ghastcow:ghast_cow\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:horse\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:horse\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:husk\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:husk\"}}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"vinery:mule\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"vinery:mule\"}}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:rabbit\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:rabbit\"}}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:tadpole\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:tadpole\"}}"
           }
         ]
       }
@@ -142,7 +142,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:villager\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:villager\"}}"
           }
         ]
       }

@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:axolotl\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:axolotl\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:hoglin\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:hoglin\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:jumbo_rabbit\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:jumbo_rabbit\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:moolip\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:moolip\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:pig\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:pig\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{VariantID:0b,entity:\"minecraft:piglin\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:piglin\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:piglin_brute\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:piglin_brute\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:pink\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:pink\"}}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"sushigocrafting:shrimp\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"sushigocrafting:shrimp\"}}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:teacup_pig\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:teacup_pig\"}}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:zoglin\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:zoglin\"}}"
           }
         ]
       }
@@ -142,7 +142,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:zombified_pig\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:zombified_pig\"}}"
           }
         ]
       }
@@ -153,7 +153,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:zombified_piglin\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:zombified_piglin\"}}"
           }
         ]
       }

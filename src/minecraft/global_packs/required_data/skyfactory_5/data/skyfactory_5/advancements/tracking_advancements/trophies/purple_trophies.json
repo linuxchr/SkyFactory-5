@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:bone_spider\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:bone_spider\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:endermite\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:endermite\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:purple\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:purple\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:shulker\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:shulker\"}}"
           }
         ]
       }

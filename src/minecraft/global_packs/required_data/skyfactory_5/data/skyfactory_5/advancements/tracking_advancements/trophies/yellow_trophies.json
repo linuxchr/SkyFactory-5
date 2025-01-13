@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:bee\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:bee\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:camel\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:camel\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:cream_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:cream_cow\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"forcecraft:gold_chu_chu\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:gold_chu_chu\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:moobloom\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:moobloom\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:ocelot\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ocelot\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:yellow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:yellow\"}}"
           }
         ]
       }

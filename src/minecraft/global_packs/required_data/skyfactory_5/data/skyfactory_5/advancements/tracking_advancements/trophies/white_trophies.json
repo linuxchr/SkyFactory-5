@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:albino_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:albino_cow\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:baby_ghast\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:baby_ghast\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:chicken\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:chicken\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"energeticsheep:energetic_sheep\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"energeticsheep:energetic_sheep\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:ghast\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ghast\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"colourfulgoats:goat\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"colourfulgoats:goat\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:horned_sheep\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:horned_sheep\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"colourfulllamas:llama\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"colourfulllamas:llama\"}}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:melon_golem\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:melon_golem\"}}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"monsterplus:opalescent_eye\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"monsterplus:opalescent_eye\"}}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:panda\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:panda\"}}"
           }
         ]
       }
@@ -142,7 +142,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:polar_bear\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:polar_bear\"}}"
           }
         ]
       }
@@ -153,7 +153,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:sheep\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:sheep\"}}"
           }
         ]
       }
@@ -164,7 +164,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:skeleton\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:skeleton\"}}"
           }
         ]
       }
@@ -175,7 +175,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:skeleton_horse\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:skeleton_horse\"}}"
           }
         ]
       }
@@ -186,7 +186,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:skeleton_wolf\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:skeleton_wolf\"}}"
           }
         ]
       }
@@ -197,7 +197,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:snow_golem\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:snow_golem\"}}"
           }
         ]
       }
@@ -208,7 +208,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:white\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:white\"}}"
           }
         ]
       }

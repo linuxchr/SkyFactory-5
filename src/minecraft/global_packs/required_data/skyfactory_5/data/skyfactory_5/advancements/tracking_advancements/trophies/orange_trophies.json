@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:blaze\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:blaze\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:fox\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:fox\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:hyper_rabbit\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:hyper_rabbit\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"lava_monster:lava_monster\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"lava_monster:lava_monster\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"monsterplus:lava_squid\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"monsterplus:lava_squid\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:magma_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:magma_cow\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:magma_cube\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:magma_cube\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"monsterplus:mother_lava_squid\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"monsterplus:mother_lava_squid\"}}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:orange\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:orange\"}}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:pufferfish\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:pufferfish\"}}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:tropical_fish\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:tropical_fish\"}}"
           }
         ]
       }
@@ -142,7 +142,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:wooly_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:wooly_cow\"}}"
           }
         ]
       }
