@@ -216,7 +216,7 @@ export function createStandardNormalGateway(
       },
       {
         type: "gateways:command",
-        command: `summon item ~ ~1 ~ {NoGravity:1b,Glowing:1b,Invulnerable:1b,Item:{id:"obtrophies:trophy",Count:1b,tag:{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:"${waveEntity.entity}"}}}}`,
+        command: `summon item ~ ~1 ~ {NoGravity:1b,Glowing:1b,Invulnerable:1b,Item:{id:"obtrophies:trophy",Count:1b,tag:{BlockEntityTag:{VariantID:0,entity:"${waveEntity.entity}"}}}}`,
         desc: `gateways.rewards.trophy.${gatewayID}`,
       },
       {
