@@ -317,7 +317,7 @@
   [<item:thermal:sawdust>]
 );
 
-// Recipies for all Archwood colors
+// Recipes for all Archwood colors
 <recipetype:immersiveengineering:sawmill>.addRecipe(
   "sawmill_archwood_blue_to_planks_ie",
   <item:ars_nouveau:blue_archwood_log>,
