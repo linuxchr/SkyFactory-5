@@ -50,6 +50,7 @@ ActiveOutputMultiplier = 1.0
 # Default: 1000
 #
 FuelMBPerIngot = 1000
+FuelOutputItem = "immersiveengineering:ingot_uranium"
 #
 # Default: false
 #
@@ -221,7 +222,6 @@ fuelRadScalingMultiplier = 1.0
 # Default: 64
 #
 SimulationRays = 64
-FuelOutputItem = "immersiveengineering:ingot_uranium"
 
 [Turbine]
 #
