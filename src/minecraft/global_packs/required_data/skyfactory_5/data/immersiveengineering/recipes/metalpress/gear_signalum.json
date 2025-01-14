@@ -16,5 +16,5 @@
     "count": 4
   },
   "mold": "immersiveengineering:mold_gear",
-  "result": { "tag": "forge:gears/signalum" }
+  "result": { "item": "thermal:signalum_gear" }
 }
