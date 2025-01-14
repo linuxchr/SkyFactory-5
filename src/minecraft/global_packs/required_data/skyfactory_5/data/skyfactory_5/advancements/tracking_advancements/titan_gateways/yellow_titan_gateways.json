@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/yellow_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/yellow_vein_creeper\"}"
     },
     "title": "Yellow Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/bee\"}"
+            "nbt": "{gateway:\"gateways:titan/bee\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/camel\"}"
+            "nbt": "{gateway:\"gateways:titan/camel\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/cream_cow\"}"
+            "nbt": "{gateway:\"gateways:titan/cream_cow\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/gold_chu_chu\"}"
+            "nbt": "{gateway:\"gateways:titan/gold_chu_chu\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/moobloom\"}"
+            "nbt": "{gateway:\"gateways:titan/moobloom\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/ocelot\"}"
+            "nbt": "{gateway:\"gateways:titan/ocelot\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/yellow_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/yellow_vein_creeper\"}"
           }
         ]
       }
