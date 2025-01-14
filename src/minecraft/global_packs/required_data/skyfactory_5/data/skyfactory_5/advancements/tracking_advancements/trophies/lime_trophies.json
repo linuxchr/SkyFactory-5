@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:creeper\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:creeper\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"forcecraft:creeper_tot\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:creeper_tot\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:lime\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:lime\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:slime\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:slime\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:turtle\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:turtle\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"ars_nouveau:whirlisprig\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"ars_nouveau:whirlisprig\"}}"
           }
         ]
       }

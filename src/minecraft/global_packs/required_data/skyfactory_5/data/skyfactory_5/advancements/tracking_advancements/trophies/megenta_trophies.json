@@ -4,7 +4,7 @@
       "item": "obtrophies:trophy",
       "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:magenta\"}}"
     },
-    "title": "Megenta Trophies!",
+    "title": "Magenta Trophies!",
     "description": {
       "text": " "
     },
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"monsterplus:crystal_zombie\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"monsterplus:crystal_zombie\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:magenta\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:magenta\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"ars_nouveau:starbuncle\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"ars_nouveau:starbuncle\"}}"
           }
         ]
       }

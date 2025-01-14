@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/green_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/green_vein_creeper\"}"
     },
     "title": "Green Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/frog\"}"
+            "nbt": "{gateway:\"gateways:titan/frog\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/green_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/green_vein_creeper\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/green_chu_chu\"}"
+            "nbt": "{gateway:\"gateways:titan/green_chu_chu\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/lobber_zombie\"}"
+            "nbt": "{gateway:\"gateways:titan/lobber_zombie\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/overgrown_skeleton\"}"
+            "nbt": "{gateway:\"gateways:titan/overgrown_skeleton\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/sniffer\"}"
+            "nbt": "{gateway:\"gateways:titan/sniffer\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/swamp_zombie\"}"
+            "nbt": "{gateway:\"gateways:titan/swamp_zombie\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/zombie\"}"
+            "nbt": "{gateway:\"gateways:titan/zombie\"}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/zombie_horse\"}"
+            "nbt": "{gateway:\"gateways:titan/zombie_horse\"}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/zombie_villager\"}"
+            "nbt": "{gateway:\"gateways:titan/zombie_villager\"}"
           }
         ]
       }

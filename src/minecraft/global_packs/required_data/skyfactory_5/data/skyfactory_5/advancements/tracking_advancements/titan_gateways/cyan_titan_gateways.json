@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/cyan_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/cyan_vein_creeper\"}"
     },
     "title": "Cyan Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/cyan_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/cyan_vein_creeper\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/drygmy\"}"
+            "nbt": "{gateway:\"gateways:titan/drygmy\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/fancy_chicken\"}"
+            "nbt": "{gateway:\"gateways:titan/fancy_chicken\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/glow_skeleton\"}"
+            "nbt": "{gateway:\"gateways:titan/glow_skeleton\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/glow_squid\"}"
+            "nbt": "{gateway:\"gateways:titan/glow_squid\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/stray_bone_spider\"}"
+            "nbt": "{gateway:\"gateways:titan/stray_bone_spider\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/tropical_slime\"}"
+            "nbt": "{gateway:\"gateways:titan/tropical_slime\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/warden\"}"
+            "nbt": "{gateway:\"gateways:titan/warden\"}"
           }
         ]
       }

@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/orange_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/orange_vein_creeper\"}"
     },
     "title": "Orange Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/blaze\"}"
+            "nbt": "{gateway:\"gateways:titan/blaze\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/fox\"}"
+            "nbt": "{gateway:\"gateways:titan/fox\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/hyper_rabbit\"}"
+            "nbt": "{gateway:\"gateways:titan/hyper_rabbit\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/lava_monster\"}"
+            "nbt": "{gateway:\"gateways:titan/lava_monster\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/lava_squid\"}"
+            "nbt": "{gateway:\"gateways:titan/lava_squid\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/magma_cow\"}"
+            "nbt": "{gateway:\"gateways:titan/magma_cow\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/magma_cube\"}"
+            "nbt": "{gateway:\"gateways:titan/magma_cube\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/mother_lava_squid\"}"
+            "nbt": "{gateway:\"gateways:titan/mother_lava_squid\"}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/orange_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/orange_vein_creeper\"}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/pufferfish\"}"
+            "nbt": "{gateway:\"gateways:titan/pufferfish\"}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/tropical_fish\"}"
+            "nbt": "{gateway:\"gateways:titan/tropical_fish\"}"
           }
         ]
       }
@@ -142,7 +142,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/wooly_cow\"}"
+            "nbt": "{gateway:\"gateways:titan/wooly_cow\"}"
           }
         ]
       }

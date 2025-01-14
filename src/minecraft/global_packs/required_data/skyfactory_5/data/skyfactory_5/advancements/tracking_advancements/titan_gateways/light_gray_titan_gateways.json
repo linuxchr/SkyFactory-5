@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/light_gray_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/light_gray_vein_creeper\"}"
     },
     "title": "Light Gray Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/elder_guardian\"}"
+            "nbt": "{gateway:\"gateways:titan/elder_guardian\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/furnace_golem\"}"
+            "nbt": "{gateway:\"gateways:titan/furnace_golem\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/guardian\"}"
+            "nbt": "{gateway:\"gateways:titan/guardian\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/iron_golem\"}"
+            "nbt": "{gateway:\"gateways:titan/iron_golem\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/light_gray_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/light_gray_vein_creeper\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/stray\"}"
+            "nbt": "{gateway:\"gateways:titan/stray\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/witch\"}"
+            "nbt": "{gateway:\"gateways:titan/witch\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/wolf\"}"
+            "nbt": "{gateway:\"gateways:titan/wolf\"}"
           }
         ]
       }
