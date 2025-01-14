@@ -89,7 +89,7 @@ Speed up your machines by capturing the Warden with the Industrial Foregoing Sou
 #§1--==§0Age of Power§1==--
 Create a Passively cooled reactor from the Bigger Reactors Mod
 Create an Actively cooled reactor from the Bigger Reactors Mod
-Create the maximum size reactor (32x48x32)
+Create a 32x48x32 Passively cooled reactor
 Create a Turbine from the Bigger Reactors Mod
 Produce 1,000 RF/t
 Produce 10,000 RF/t
@@ -269,6 +269,7 @@ Fill an entire chunk with Colorless Dye Blocks (16x448x16)
 #§1--==§0AKA Nobody Is Crazy Enough to Actually Do This§1==--
 Fill the Tier 8 Draconic Energy Core to max 9,223,000,000,000,000,000op
 Fill an Infinity Tool to max charge
+Create a maximum size Passively cooled reactor (128x192x128)
 ===
 ===
 ===

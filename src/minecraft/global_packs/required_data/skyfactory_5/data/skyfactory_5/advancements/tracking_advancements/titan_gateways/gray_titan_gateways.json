@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/gray_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/gray_vein_creeper\"}"
     },
     "title": "Gray Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/abyssologer\"}"
+            "nbt": "{gateway:\"gateways:titan/abyssologer\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/bouldering_zombie\"}"
+            "nbt": "{gateway:\"gateways:titan/bouldering_zombie\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/cat\"}"
+            "nbt": "{gateway:\"gateways:titan/cat\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/evoker\"}"
+            "nbt": "{gateway:\"gateways:titan/evoker\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/gray_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/gray_vein_creeper\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/illusioner\"}"
+            "nbt": "{gateway:\"gateways:titan/illusioner\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/pillager\"}"
+            "nbt": "{gateway:\"gateways:titan/pillager\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/ravager\"}"
+            "nbt": "{gateway:\"gateways:titan/ravager\"}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/silverfish\"}"
+            "nbt": "{gateway:\"gateways:titan/silverfish\"}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/vindicator\"}"
+            "nbt": "{gateway:\"gateways:titan/vindicator\"}"
           }
         ]
       }

@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/blue_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/blue_vein_creeper\"}"
     },
     "title": "Blue Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/blue_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/blue_vein_creeper\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/blue_chu_chu\"}"
+            "nbt": "{gateway:\"gateways:titan/blue_chu_chu\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/bouldering_drowned\"}"
+            "nbt": "{gateway:\"gateways:titan/bouldering_drowned\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/drowned\"}"
+            "nbt": "{gateway:\"gateways:titan/drowned\"}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/lobber_drowned\"}"
+            "nbt": "{gateway:\"gateways:titan/lobber_drowned\"}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/phantom\"}"
+            "nbt": "{gateway:\"gateways:titan/phantom\"}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/squid\"}"
+            "nbt": "{gateway:\"gateways:titan/squid\"}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/trader_llama\"}"
+            "nbt": "{gateway:\"gateways:titan/trader_llama\"}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/viler_witch\"}"
+            "nbt": "{gateway:\"gateways:titan/viler_witch\"}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/wandering_trader\"}"
+            "nbt": "{gateway:\"gateways:titan/wandering_trader\"}"
           }
         ]
       }

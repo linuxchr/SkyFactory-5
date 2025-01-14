@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:cluck_shroom\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:cluck_shroom\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:mooshroom\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:mooshroom\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:parrot\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:parrot\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:red\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:red\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"forcecraft:red_chu_chu\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:red_chu_chu\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:salmon\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:salmon\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:strider\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:strider\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"vinery:wandering_winemaker\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"vinery:wandering_winemaker\"}}"
           }
         ]
       }

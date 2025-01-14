@@ -2,7 +2,7 @@
   "display": {
     "icon": {
       "item": "gateways:gate_pearl",
-      "nbt": "{gateway:\"gateways:normal/purple_vein_creeper\"}"
+      "nbt": "{gateway:\"gateways:titan/purple_vein_creeper\"}"
     },
     "title": "Purple Titan Gateways!",
     "description": {
@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/bone_spider\"}"
+            "nbt": "{gateway:\"gateways:titan/bone_spider\"}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/endermite\"}"
+            "nbt": "{gateway:\"gateways:titan/endermite\"}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/purple_vein_creeper\"}"
+            "nbt": "{gateway:\"gateways:titan/purple_vein_creeper\"}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["gateways:gate_pearl"],
-            "nbt": "{gateway:\"gateways:normal/shulker\"}"
+            "nbt": "{gateway:\"gateways:titan/shulker\"}"
           }
         ]
       }
