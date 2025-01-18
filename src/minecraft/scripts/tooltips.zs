@@ -164,10 +164,11 @@ import crafttweaker.api.text.Component;
 // Gateways
 // Ghast Cow and Wither
 var exploding_boss_gateway = Component.literal("Warning! Summons an Exploding Boss Mob").setStyle(<constant:formatting:red>);
-<item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/ghast_cow"}).addTooltip(exploding_boss_gateway);
-<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/ghast_cow"}).addTooltip(exploding_boss_gateway);
-<item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/wither"}).addTooltip(exploding_boss_gateway);
-<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/wither"}).addTooltip(exploding_boss_gateway);
+val exploding_mobs = ["gateways:normal/ghast_cow", "gateways:titan/ghast_cow", "gateways:normal/wither", "gateways:titan/wither"];
+<item:gateways:gate_pearl>.onlyIf("wither_pearl", stack => {
+  val gateway = stack.tag["gateway"];
+  return (gateway as string) in exploding_mobs;
+}).addTooltip(exploding_boss_gateway);
 
 // General Bosses
 var boss_mob_gateway = Component.literal("Warning! Summons a Boss Mob").setStyle(<constant:formatting:red>);
