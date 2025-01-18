@@ -539,6 +539,19 @@ craftingTable.addShapeless(
   <item:minecraft:green_dye> * 3,
   [<item:minecraft:blue_dye>, <item:minecraft:yellow_dye>, <item:minecraft:green_dye>]
 );
+
+// Gem BLocks to Gems
+craftingTable.addShapeless(
+  "sapphire_block_to_gem",
+  <item:thermal:sapphire> * 9,
+  [<item:thermal:sapphire_block> * 1]
+);
+
+craftingTable.addShapeless(
+  "ruby_block_to_gem",
+  <item:thermal:ruby> * 9,
+  [<item:thermal:ruby_block> * 1]
+
 craftingTable.addShapeless(
   "green_dye_block_for_automation",
   <item:sf5_things:block_of_green_dye> * 3,

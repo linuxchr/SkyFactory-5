@@ -1462,3 +1462,26 @@ craftingTable.addShaped(
     [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <item:supplementaries:ash_brick>]
   ]
 );
+
+
+// Gem Blocks
+craftingTable.addShaped(
+  "sapphire_gem_to_block",
+  <item:thermal:sapphire_block> * 1,
+  [
+    [<tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>],
+    [<tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>],
+    [<tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>, <tag:items:forge:gems/sapphire>]
+  ]
+);
+
+
+craftingTable.addShaped(
+  "ruby_gem_to_block",
+  <item:thermal:ruby_block> * 1,
+  [
+    [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>],
+    [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>],
+    [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>]
+  ]
+);
