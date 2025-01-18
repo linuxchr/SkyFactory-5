@@ -21,7 +21,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"waddles:adelie_penguin\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"waddles:adelie_penguin\"}}"
           }
         ]
       }
@@ -32,7 +32,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"veincreeper:black\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"veincreeper:black\"}}"
           }
         ]
       }
@@ -43,7 +43,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:cave_spider\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:cave_spider\"}}"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:ender_dragon\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:ender_dragon\"}}"
           }
         ]
       }
@@ -65,7 +65,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"forcecraft:ender_tot\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"forcecraft:ender_tot\"}}"
           }
         ]
       }
@@ -76,7 +76,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:enderman\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:enderman\"}}"
           }
         ]
       }
@@ -87,7 +87,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:spider\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:spider\"}}"
           }
         ]
       }
@@ -98,7 +98,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:umbra_cow\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:umbra_cow\"}}"
           }
         ]
       }
@@ -109,7 +109,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:wither\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:wither\"}}"
           }
         ]
       }
@@ -120,7 +120,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"minecraft:wither_skeleton\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"minecraft:wither_skeleton\"}}"
           }
         ]
       }
@@ -131,7 +131,7 @@
         "items": [
           {
             "items": ["obtrophies:trophy"],
-            "nbt": "{BlockEntityTag:{SpecialCycleVariant:0b,VariantID:0b,entity:\"earthmobsmod:wither_skeleton_wolf\"}}"
+            "nbt": "{BlockEntityTag:{VariantID:0,entity:\"earthmobsmod:wither_skeleton_wolf\"}}"
           }
         ]
       }

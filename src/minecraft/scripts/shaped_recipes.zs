@@ -1387,18 +1387,79 @@ craftingTable.addShaped(
   "archwood_logs_to_chest",
   <item:minecraft:chest> * 4,
   [
-    [<tag:items:forge:logs/archwood>, <tag:items:forge:logs/archwood>, <tag:items:forge:logs/archwood>],
-    [<tag:items:forge:logs/archwood>, <item:minecraft:air>, <tag:items:forge:logs/archwood>],
-    [<tag:items:forge:logs/archwood>, <tag:items:forge:logs/archwood>, <tag:items:forge:logs/archwood>]
+    [<tag:items:skyfactory_5:ars_default_logs>, <tag:items:skyfactory_5:ars_default_logs>, <tag:items:skyfactory_5:ars_default_logs>],
+    [<tag:items:skyfactory_5:ars_default_logs>, <item:minecraft:air>, <tag:items:skyfactory_5:ars_default_logs>],
+    [<tag:items:skyfactory_5:ars_default_logs>, <tag:items:skyfactory_5:ars_default_logs>, <tag:items:skyfactory_5:ars_default_logs>]
   ]
 );
+
   craftingTable.addShaped(
   "archwood_planks_to_chest",
   <item:minecraft:chest> * 1,
   [
-    [<tag:items:forge:planks/archwood>, <tag:items:forge:planks/archwood>, <tag:items:forge:planks/archwood>],
-    [<tag:items:forge:planks/archwood>, <item:minecraft:air>, <tag:items:forge:planks/archwood>],
-    [<tag:items:forge:planks/archwood>, <tag:items:forge:planks/archwood>, <tag:items:forge:planks/archwood>]
+    [<tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>],
+    [<tag:items:skyfactory_5:ars_default_planks>, <item:minecraft:air>, <tag:items:skyfactory_5:ars_default_planks>],
+    [<tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>]
+  ]
+);
+
+craftingTable.addShaped(
+  "archwood_to_crafting_table",
+  <item:minecraft:crafting_table>,
+  [
+    [<tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>],
+    [<tag:items:skyfactory_5:ars_default_planks>, <tag:items:skyfactory_5:ars_default_planks>]
+  ]
+);
+
+// Dead Coral Blocks
+  craftingTable.addShaped(
+  "ash_to_dead_tube_coral_block",
+  <item:minecraft:dead_tube_coral_block> * 8,
+  [
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>],
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>],
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>]
+  ]
+);
+
+  craftingTable.addShaped(
+  "ash_to_dead_brain_coral_block",
+  <item:minecraft:dead_brain_coral_block> * 8,
+  [
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>],
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>],
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>]
+  ]
+);
+
+  craftingTable.addShaped(
+  "ash_to_dead_bubble_coral_block",
+  <item:minecraft:dead_bubble_coral_block> * 8,
+  [
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>],
+    [<item:supplementaries:ash_brick>, <item:supplementaries:ash_brick>, <item:supplementaries:ash_brick>],
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>]
+  ]
+);
+
+  craftingTable.addShaped(
+  "ash_to_dead_fire_coral_block",
+  <item:minecraft:dead_fire_coral_block> * 8,
+  [
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>],
+    [<tag:items:forge:dyes/gray>, <tag:items:forge:dyes/gray>, <tag:items:forge:dyes/gray>],
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>]
+  ]
+);
+
+  craftingTable.addShaped(
+  "ash_to_dead_horn_coral_block",
+  <item:minecraft:dead_horn_coral_block> * 8,
+  [
+    [<item:supplementaries:ash_brick>, <item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>],
+    [<item:supplementaries:ash_brick>, <tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>],
+    [<tag:items:forge:dyes/gray>, <item:supplementaries:ash_brick>, <item:supplementaries:ash_brick>]
   ]
 );
 
