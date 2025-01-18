@@ -551,6 +551,7 @@ craftingTable.addShapeless(
   "ruby_block_to_gem",
   <item:thermal:ruby> * 9,
   [<item:thermal:ruby_block> * 1]
+);
 
 craftingTable.addShapeless(
   "green_dye_block_for_automation",
@@ -563,6 +564,7 @@ craftingTable.addShapeless(
   "fire_charge_to_firework_star",
   <item:minecraft:firework_star>,
   [<item:minecraft:gunpowder>, <item:minecraft:fire_charge>]
+);
 
 // Coral Blocks
   craftingTable.addShapeless(
