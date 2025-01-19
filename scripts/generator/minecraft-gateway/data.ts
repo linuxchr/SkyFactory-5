@@ -1077,7 +1077,7 @@ export const mobData: MobData[] = [
     color: ColorName.Orange,
     gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
     minLightLevel: 0,
-    maxLightLevel: 15,
+    maxLightLevel: 7,
   },
   {
     spawnOnly: false,
