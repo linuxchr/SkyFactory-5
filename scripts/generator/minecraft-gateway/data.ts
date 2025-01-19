@@ -127,8 +127,8 @@ export const mobData: MobData[] = [
     stage: "bat",
     color: ColorName.Brown,
     gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
-    minLightLevel: 0,
-    maxLightLevel: 7,
+    minLightLevel: 8,
+    maxLightLevel: 15,
     trophyData: {
       offset: -0.3,
       scale: 2,
@@ -1077,7 +1077,7 @@ export const mobData: MobData[] = [
     color: ColorName.Orange,
     gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
     minLightLevel: 0,
-    maxLightLevel: 15,
+    maxLightLevel: 7,
   },
   {
     spawnOnly: false,
