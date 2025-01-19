@@ -194,3 +194,7 @@ var nether_painting = Component.literal("Teleports you to the Nether Dimension")
 
 var end_painting = Component.literal("Teleports you to the End Dimension").setStyle(<constant:formatting:yellow>);
 <item:dimpaintings:end_painting>.addTooltip(end_painting);
+
+// EnderIO Conduit Probe
+var conduit_probe = Component.literal("Shift-Mouse Wheel to Change Mode").setStyle(<constant:formatting:yellow>);
+<item:enderio:conduit_probe>.addTooltip(conduit_probe);
