@@ -369,7 +369,8 @@ forbiddenTiles = [
   "refurbished_furniture:*",
   "draconicevolution:*",
   "vinery:apple_press",
-  "sushigocrafting:*"
+  "sushigocrafting:*",
+  "obtrophies:*"
 ]
 # Entities that cannot be picked up
 forbiddenEntities = [
