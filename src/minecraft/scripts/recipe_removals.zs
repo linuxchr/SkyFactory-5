@@ -491,8 +491,25 @@ val items as IItemStack[] = [
 
   // Hostile Neural Network
   <item:hostilenetworks:nether_prediction>,
-  <item:hostilenetworks:end_prediction>
+  <item:hostilenetworks:end_prediction>,
 
+  // Colored Torches
+  <item:colored_torches:white_torch>,
+  <item:colored_torches:orange_torch>,
+  <item:colored_torches:magenta_torch>,
+  <item:colored_torches:light_blue_torch>,
+  <item:colored_torches:yellow_torch>,
+  <item:colored_torches:lime_torch>,
+  <item:colored_torches:pink_torch>,
+  <item:colored_torches:gray_torch>,
+  <item:colored_torches:light_gray_torch>,
+  <item:colored_torches:cyan_torch>,
+  <item:colored_torches:purple_torch>,
+  <item:colored_torches:blue_torch>,
+  <item:colored_torches:brown_torch>,
+  <item:colored_torches:green_torch>,
+  <item:colored_torches:red_torch>,
+  <item:colored_torches:black_torch>
 ];
 
 for item in items {
