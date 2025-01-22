@@ -193,7 +193,7 @@ enabled = true
 [cyclic.enchantment.growth]
 # Radius per level.  size around player to perform growth logic
 # Range: 1 ~ 16
-radius = 2
+radius = 1
 # Set false to stop enchantment from working
 enabled = true
 
