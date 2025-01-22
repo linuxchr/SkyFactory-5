@@ -552,6 +552,9 @@ craftingTable.removeByName("immersiveengineering:crafting/nugget_copper_to_coppe
 craftingTable.removeByName("thermal:storage/copper_ingot_from_nuggets");
 craftingTable.removeByName("create:crafting/materials/copper_ingot");
 
+// Supplementaries
+craftingTable.removeByName("supplementaries:bubble_blower");
+
 // //
 // Attempts to remove Draconic Evolution Spawner Conversion
 events.register<crafttweaker.forge.api.event.interact.RightClickBlockEvent>(event => {
