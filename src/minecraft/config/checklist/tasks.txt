@@ -273,7 +273,7 @@ Fill an entire chunk with Colorless Dye Blocks (16x448x16)
 #§1--==§0AKA Nobody Is Crazy Enough to Actually Do This§1==--
 Fill the Tier 8 Draconic Energy Core to max 9,223,000,000,000,000,000op
 Fill an Infinity Tool to max charge
-Create a maximum size Passively cooled reactor (128x192x128)
+Create a maximum size Passively cooled reactor (64x64x64)
 ===
 ===
 ===
