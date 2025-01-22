@@ -1,3 +1,8 @@
+import crafttweaker.api.item.IItemStack;
+import crafttweaker.api.ingredient.IIngredient;
+import crafttweaker.api.data.IData;
+import crafttweaker.api.data.MapData;
+
 // Treasure Bag Template
 craftingTable.addShaped(
   "treasure_bag_template",
@@ -43,7 +48,6 @@ craftingTable.addShaped(
   ]
 );
 
-
 // Xer Can Paint
 
 craftingTable.addShaped(
@@ -54,7 +58,6 @@ craftingTable.addShaped(
     [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]
   ]
 );
-
 
 // Fixes recipe conflict between Builders Wands and Pizzacraft Peels
 craftingTable.remove(<item:pizzacraft:stone_pizza_peel>);
@@ -122,7 +125,6 @@ craftingTable.addShaped(
   ]
 );
 
-
 // I don't know who made the original recipe that 4 obsidian plus a water bucket makes
 // 1 crying obsidian. But I do think they wanted people to cry in real life when making that recipe.
 // It's outrageous, it's egregious, and preposterous!
@@ -148,7 +150,6 @@ craftingTable.addShaped(
     [<item:minecraft:air>, <item:minecraft:leather>, <item:minecraft:air>]
   ]
 );
-
 
 // Ex Nihilo Barrel Recipes
 
@@ -1033,18 +1034,30 @@ craftingTable.addShaped(
   ]
   );
 
+import crafttweaker.api.item.IItemStack;
+import crafttweaker.api.ingredient.IIngredient;
+import crafttweaker.api.data.IData;
+import crafttweaker.api.data.MapData;
+
 // Watering Can Upgrades
 
 // Tier 2
-  craftingTable.addShaped(
+craftingTable.addShaped(
   "watering_can_inferium",
-   <item:mysticalagriculture:inferium_watering_can> * 1,
+   <item:mysticalagriculture:inferium_watering_can>,
   [
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"}), <item:minecraft:air>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"}), <item:mysticalagriculture:watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"}), <item:mysticalagriculture:watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"})],
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:normal/drowned"}), <item:minecraft:air>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
 // Tier 3
   craftingTable.addShaped(
@@ -1052,10 +1065,17 @@ craftingTable.addShaped(
    <item:mysticalagriculture:prudentium_watering_can> * 1,
   [
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"}), <item:minecraft:air>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"}), <item:mysticalagriculture:inferium_watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"}), <item:mysticalagriculture:inferium_watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"})],
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/squid"}), <item:minecraft:air>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
 // Tier 4
   craftingTable.addShaped(
@@ -1063,10 +1083,17 @@ craftingTable.addShaped(
    <item:mysticalagriculture:tertium_watering_can> * 1,
   [
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"}), <item:minecraft:air>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"}), <item:mysticalagriculture:prudentium_watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"}), <item:mysticalagriculture:prudentium_watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"})],
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/salmon"}), <item:minecraft:air>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
   // Tier 5
   craftingTable.addShaped(
@@ -1074,10 +1101,17 @@ craftingTable.addShaped(
    <item:mysticalagriculture:imperium_watering_can> * 1,
   [
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"}), <item:minecraft:air>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"}), <item:mysticalagriculture:tertium_watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"}), <item:mysticalagriculture:tertium_watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"})],
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/glow_squid"}), <item:minecraft:air>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
   // Tier 6
   craftingTable.addShaped(
@@ -1085,10 +1119,17 @@ craftingTable.addShaped(
    <item:mysticalagriculture:supremium_watering_can> * 1,
   [
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"}), <item:minecraft:air>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"}), <item:mysticalagriculture:imperium_watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"}), <item:mysticalagriculture:imperium_watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"})],
     [<item:minecraft:air>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/dolphin"}), <item:minecraft:air>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
   // Tier 7
   craftingTable.addShaped(
@@ -1096,10 +1137,17 @@ craftingTable.addShaped(
    <item:mysticalagriculture:awakened_supremium_watering_can> * 1,
   [
     [<item:minecraft:netherite_ingot>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"}), <item:minecraft:netherite_ingot>],
-    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"}), <item:mysticalagriculture:supremium_watering_can>.withTag({Water: 1}), <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"})],
+    [<item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"}), <item:mysticalagriculture:supremium_watering_can>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"})],
     [<item:minecraft:netherite_ingot>, <item:gateways:gate_pearl>.withTag({gateway: "gateways:titan/elder_guardian"}), <item:minecraft:netherite_ingot>]
-  ]
-  );
+  ],
+(usualOut as IItemStack, inputs as IItemStack[][]) => {
+
+    val middle = inputs[1][1];
+    if middle.tag != null {
+        return usualOut.withTag(inputs[1][1].tag as IData as MapData);
+    }
+    return usualOut;
+});
 
 // RGB Dye to Block
   craftingTable.addShaped(
@@ -1483,5 +1531,16 @@ craftingTable.addShaped(
     [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>],
     [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>],
     [<tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>, <tag:items:forge:gems/ruby>]
+  ]
+);
+
+// Bubble Blower
+craftingTable.addShaped(
+  "bubble_blower_with_enchant",
+  <item:supplementaries:bubble_blower>.withEnchantment(<enchantment:supplementaries:stasis>, 1).withDamage(250) * 1,
+  [
+    [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>],
+    [<item:minecraft:air>, <item:minecraft:iron_nugget>, <item:minecraft:iron_nugget>],
+    [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:air>]
   ]
 );
