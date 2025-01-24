@@ -1,0 +1,9 @@
+{
+  "type": "ae2:charger",
+  "ingredient": {
+    "item": "ae2:flawed_budding_quartz"
+  },
+  "result": {
+    "item": "ae2:flawless_budding_quartz"
+  }
+}
