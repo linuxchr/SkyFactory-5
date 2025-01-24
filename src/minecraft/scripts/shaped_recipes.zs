@@ -1544,3 +1544,28 @@ craftingTable.addShaped(
     [<item:minecraft:iron_ingot>, <item:minecraft:air>, <item:minecraft:air>]
   ]
 );
+
+// AE2 Flawless Quartz
+craftingTable.addShaped(
+  "ae2_flawless_quartz",
+  <item:ae2:flawless_budding_quartz> * 1,
+  [
+    [<item:ae2:quartz_cluster>, <item:ae2:quartz_block>, <item:ae2:quartz_cluster>],
+    [<item:ae2:quartz_block>, <item:ae2:flawed_budding_quartz>, <item:ae2:quartz_block>],
+    [<item:ae2:quartz_cluster>, <item:ae2:quartz_block>, <item:ae2:quartz_cluster>],
+  ]
+);
+
+// Milk Jar with Wooden Bucket. I can put whatever I want in this comment and nothing will change or break
+// in the game. In fact, I could write and entire book in here and there's nothing that you can do about it!
+// So there!
+// Cow milk jar thing!
+craftingTable.addShaped(
+  "milk_jar_wooden_bucket",
+  <item:cookingforblockheads:milk_jar> * 1,
+  [
+    [<item:minecraft:glass>, <tag:items:minecraft:planks>, <item:minecraft:glass>],
+    [<item:minecraft:glass>, <item:woodenbucket:wooden_bucket>.withTag({Fluid: {Amount: 1000, FluidName: "minecraft:milk"}, BucketContent: "minecraft:milk"}), <item:minecraft:glass>],
+    [<item:minecraft:glass>, <item:minecraft:glass>, <item:minecraft:glass>],
+  ]
+);
