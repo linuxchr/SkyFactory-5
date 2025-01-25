@@ -1,17 +1,17 @@
 {
   "type": "industrialforegoing:laser_drill_fluid",
   "catalyst": {
-    "item": "industrialforegoing:laser_lens1"
+    "item": "industrialforegoing:laser_lens15"
   },
   "entity": "minecraft:empty",
-  "output": "{Amount:100,FluidName:\"minecraft:lava\"}",
+  "output": "{Amount:50,FluidName:\"thermal:crude_oil\"}",
   "pointer": 0,
   "rarity": [
     {
       "blacklist": {},
-      "depth_max": 199,
-      "depth_min": 150,
-      "weight": 8,
+      "depth_max": 149,
+      "depth_min": 100,
+      "weight": 0,
       "whitelist": {}
     }
   ]
