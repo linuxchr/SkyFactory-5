@@ -1,4 +1,4 @@
-import { Float, Int, TagObject } from "nbt-ts";
+import { Byte, Float, Int, TagObject } from "nbt-ts";
 import { HostileNeuralNetworksDataModel } from "schemas/minecraft/hostilenetworks/data-model";
 import { InControlSpawn } from "schemas/minecraft/incontrol/spawn";
 import { OpenBlocksTrophiesTrophy } from "schemas/minecraft/obtrophies/trophy";
@@ -963,6 +963,7 @@ export const mobData: MobData[] = [
           scale: new Float(0.05),
         },
       },
+      IsImmuneToZombification: new Byte(1),
     },
     trophyData: {
       behavior: {
@@ -1366,6 +1367,9 @@ export const mobData: MobData[] = [
     gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
     minLightLevel: 0,
     maxLightLevel: 7,
+    additionalGatewayMobNBT: {
+      IsImmuneToZombification: new Byte(1),
+    },
     spawnOverrides: {
       block: {
         tag: "skyfactory_5:this_is_where_nether_mobs_need_to_spawn_and_it_probably_works",
@@ -1385,6 +1389,9 @@ export const mobData: MobData[] = [
     gatewayTypes: [GatewayType.Normal, GatewayType.Titan],
     minLightLevel: 0,
     maxLightLevel: 7,
+    additionalGatewayMobNBT: {
+      IsImmuneToZombification: new Byte(1),
+    },
     spawnOverrides: {
       block: {
         tag: "skyfactory_5:this_is_where_nether_mobs_need_to_spawn_and_it_probably_works",
