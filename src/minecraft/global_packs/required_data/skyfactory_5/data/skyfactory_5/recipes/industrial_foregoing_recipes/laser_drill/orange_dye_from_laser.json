@@ -10,7 +10,7 @@
   "rarity": [
     {
       "blacklist": {},
-      "depth_max": 99,
+      "depth_max": 420,
       "depth_min": -64,
       "weight": 0,
       "whitelist": {}
