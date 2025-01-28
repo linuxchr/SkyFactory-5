@@ -806,6 +806,7 @@ val items as ResourceLocation[] = [
   <resource:simplehats:icedragonskull>,
   <resource:simplehats:spadesoldier>,
   <resource:simplehats:springer>,
+  <resource:supplementaries:awning_light_blue>,
   <resource:supplementaries:botania/sign_post_dreamwood>,
   <resource:supplementaries:bubble_blower>,
   <resource:supplementaries:candle_holder_light_blue>,
