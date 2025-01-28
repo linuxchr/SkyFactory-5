@@ -147,6 +147,7 @@ val items as ResourceLocation[] = [
   <resource:botania:super_lava_pendant>,
   <resource:botania:third_eye>,
   <resource:botania:unholy_cloak>,
+  <resource:buildinggadgets2:redprint>,
   <resource:chipped:airy_crimson_trapdoor>,
   <resource:chipped:airy_mangrove_trapdoor>,
   <resource:chipped:angry_nether_bricks>,

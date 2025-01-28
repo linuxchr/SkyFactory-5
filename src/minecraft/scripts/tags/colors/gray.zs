@@ -208,6 +208,7 @@ val items as ResourceLocation[] = [
   <resource:botania:metamorphic_swamp_stone_wall>,
   <resource:botania:prism>,
   <resource:botania:rune_pride>,
+  <resource:buildinggadgets2:gadget_destruction>,
   <resource:chargers:charger_t1>,
   <resource:chargers:charger_t4>,
   <resource:chargers:wireless_charger>,

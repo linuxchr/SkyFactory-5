@@ -1230,6 +1230,7 @@ val items as ResourceLocation[] = [
   <resource:mcwwindows:yellow_curtain>,
   <resource:mcwwindows:yellow_mosaic_glass>,
   <resource:mcwwindows:yellow_mosaic_glass_pane>,
+  <resource:measurements:tape_measure>,
   <resource:minecraft:bamboo_button>,
   <resource:minecraft:bamboo_chest_raft>,
   <resource:minecraft:bamboo_door>,

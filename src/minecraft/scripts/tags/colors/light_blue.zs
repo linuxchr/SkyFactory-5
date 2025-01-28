@@ -179,6 +179,7 @@ val items as ResourceLocation[] = [
   <resource:botania:tangleberrie_chibi>,
   <resource:botania:thunder_sword>,
   <resource:botania:water_rod>,
+  <resource:buildinggadgets2:template>,
   <resource:chipped:ad_astra_pearlescent_froglight>,
   <resource:chipped:angry_clay>,
   <resource:chipped:angry_ice>,

@@ -101,6 +101,7 @@ val items as ResourceLocation[] = [
   <resource:botania:rune_gluttony>,
   <resource:botania:temperance_stone>,
   <resource:botania:virus_nullodermal>,
+  <resource:buildinggadgets2:gadget_cut_paste>,
   <resource:chipped:ancient_iron_block>,
   <resource:chipped:andesite_bricks>,
   <resource:chipped:andesite_gravel>,
