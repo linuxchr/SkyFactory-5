@@ -331,3 +331,15 @@ craftingTable.addShapeless(
   <item:thermal:peanut_seeds> * 9,
   [<item:sf5_things:block_of_yellow_dye>, <item:sf5_things:block_of_yellow_dye>, <item:sf5_things:block_of_red_dye>]
 );
+
+// Glow Lichen
+craftingTable.addShapeless(
+  "glow_lichen_from_dye",
+  <item:minecraft:glow_lichen> * 2,
+  [<tag:items:forge:dyes/cyan>, <tag:items:forge:dyes/light_gray>, <tag:items:forge:dyes/light_gray>]
+);
+craftingTable.addShapeless(
+  "glow_lichen_from_dye_blocks",
+  <item:minecraft:glow_lichen> * 18,
+  [<item:sf5_things:block_of_cyan_dye>, <item:sf5_things:block_of_light_gray_dye>, <item:sf5_things:block_of_light_gray_dye>]
+);
