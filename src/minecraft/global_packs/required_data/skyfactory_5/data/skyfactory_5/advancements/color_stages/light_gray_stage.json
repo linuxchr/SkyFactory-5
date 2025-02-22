@@ -200,6 +200,17 @@
           }
         ]
       }
+    },
+    "block_of_pocket_lint": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_pocket_lint"]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -220,7 +231,8 @@
       "smooth_stone",
       "damaged_anvil",
       "chipped_anvil",
-      "anvil"
+      "anvil",
+      "block_of_pocket_lint"
     ]
   ],
   "rewards": {

@@ -288,6 +288,17 @@
           }
         ]
       }
+    },
+    "block_of_bubble_wrap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [],
+        "items": [
+          {
+            "items": ["sf5_things:block_of_bubble_wrap"]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -316,7 +327,8 @@
       "prismarine_shard",
       "prismarine_crystals",
       "sadiroot",
-      "apatite"
+      "apatite",
+      "block_of_bubble_wrap"
     ]
   ],
   "rewards": {
