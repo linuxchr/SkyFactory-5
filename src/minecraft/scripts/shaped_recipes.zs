@@ -1580,3 +1580,14 @@ craftingTable.addShaped(
     [<item:minecraft:glass>, <item:minecraft:glass>, <item:minecraft:glass>],
   ]
 );
+
+// Budding Amethyst
+craftingTable.addShaped(
+  "budding_amethyst_shaped",
+  <item:minecraft:budding_amethyst> * 1,
+  [
+    [<item:minecraft:amethyst_cluster>, <item:ars_nouveau:source_gem_block>, <item:minecraft:amethyst_cluster>],
+    [<item:ars_nouveau:source_gem_block>, <item:minecraft:amethyst_block>, <item:ars_nouveau:source_gem_block>],
+    [<item:minecraft:amethyst_cluster>, <item:ars_nouveau:source_gem_block>, <item:minecraft:amethyst_cluster>]
+  ]
+);
