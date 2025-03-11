@@ -352,4 +352,28 @@ ContentBuilder.factory
         gatewaysIngredient
       ]
     );
+  })
+
+  .addRecipeGenerator("_coloured_wood_to_planks", (baseName, args) => {
+  val plankItem = args.getItem(ColoredItem.Plank);
+  val woodItem = args.getItem(ColoredItem.Wood);
+    craftingTable.addShaped(
+      args.color.getResourceName() + baseName,
+      plankItem * 4,
+      [
+        [woodItem]
+      ]
+    );
+  })
+
+  .addRecipeGenerator("_coloured_stripped_wood_to_planks", (baseName, args) => {
+  val plankItem = args.getItem(ColoredItem.Plank);
+  val strippedWoodItem = args.getItem(ColoredItem.StrippedWood);
+    craftingTable.addShaped(
+      args.color.getResourceName() + baseName,
+      plankItem * 4,
+      [
+        [strippedWoodItem]
+      ]
+    );
   });

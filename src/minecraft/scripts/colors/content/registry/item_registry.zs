@@ -20,8 +20,10 @@ public enum ColoredItem {
   Sapling = "sapling",
   Seed = "seed",
   StorageChest = "storage_chest",
+  StrippedWood = "stripped_wood",
   Torch = "torch",
   TreasureBag = "treasure_bag",
+  Wood = "wood",
   Wool = "wool",
 }
 
@@ -134,4 +136,12 @@ ContentBuilder.factory
     }
 
     return <item:minecraft:${color.getResourceName()}_wool>;
+  })
+
+  .registerItem(ColoredItem.Wood, (color) => {
+    return <item:colouredstuff:wood_${color.getResourceName()}>;
+  })
+
+  .registerItem(ColoredItem.StrippedWood, (color) => {
+    return <item:colouredstuff:wood_stripped_${color.getResourceName()}>;
   });
